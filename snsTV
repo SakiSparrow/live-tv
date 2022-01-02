@@ -8,8 +8,14 @@ http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 2 (BDIX7)
 http://12.1.1.1:8082/Local-Sports/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 2 (BDIX9)
+http://103.159.4.38:8080/BD-BANGLA-8/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 3 (BDIX8)
 http://stream.dhakaflix.com:8081/live/mystream1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 3 (BDIX_Sports)
+http://bcdn.bdixsports.live:1935/live/event.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports (pk)
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
@@ -28,6 +34,9 @@ http://172.27.27.3:8088/hls/01_Gazitv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDWatch)
 http://103.70.140.27:8080/hls/gtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (SK)
+http://103.81.104.118/hls/nexus.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV (BDIX12)
 http://103.78.255.178:8080/gtv/index.m3u8
@@ -212,6 +221,10 @@ https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (BDIX7)
 http://stream.amrbd.com:8082/Ntv/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (BDIX9)
+http://103.159.4.38:8080/BD-BANGLA-18/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg" group-title="Bangla",News24 (BDIX0)
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
 
@@ -254,11 +267,14 @@ http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX3)
 http://172.27.27.3:8088/hls/06_T-SportsBD.m3u8
 
-#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX7)
-http://stream.amrbd.com:8082/T-Sports/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/tsports.jpg" group-title="Bangla",T sports (BDIX1)
 http://45.127.244.7:8080/hls/channel3.m3u8
+
+#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX9)
+http://103.159.4.38:8080/BD-BANGLA-11/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX7)
+http://stream.amrbd.com:8082/T-Sports/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/tsports.jpg" group-title="Bangla",T sports (BDIX5)
 http://103.102.27.172:6464/Channel-2/index.m3u8
