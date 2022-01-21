@@ -323,9 +323,6 @@ http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla",Colors Bangla (akamai)
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla",Colors Bangla (jio)
-https://tvstream.space//jtv/ooo.php?c=Colors_Bangla_SD&q=800&e=.m3u8
-
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/jalshamovies.png" group-title="Bangla", Star Jalsha Movies (BDIX2)
 http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
 
@@ -418,6 +415,9 @@ http://172.27.27.3:8088/hls/15_ptv_sports.m3u8
 
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png"  group-title="Sports",PTV Sports (BDIX2)
 http://tv2.ebox.live:8080/live/ptvsports.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png"  group-title="Sports",PTV Sports (BDCable)
+http://jupiter.bdcabletv.com/PTV_Sports/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png"  group-title="Sports",PTV Sports 
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
@@ -617,8 +617,8 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="Cartoon",Cartoon Network Hindi (jio)
 https://tvstream.space//jtv/ooo.php?c=Cartoon_Network_Hindi&q=600&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Cartoon",Disney Channel (FPM)
-https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Cartoon",Disney Channel (BDCable)
+http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Cartoon", Sony Yay  (jio)
 https://tvstream.space//jtv/ooo.php?c=Sony_Yay_Hindi&q=600&e=.m3u8
