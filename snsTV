@@ -11,11 +11,14 @@ http://12.1.1.1:8082/Local-Sports/index.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 2 (BDIX9)
 http://103.159.4.38:8080/BD-BANGLA-8/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 3 (BDIX8)
-http://stream.dhakaflix.com:8081/live/mystream1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 3 (Jadoo)
+https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1642959605&md5=pwofeTutWTkNWEdjGf8yBg&user=49729ec489674ef3912b6d7cd0822923
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 3 (BDIX_Sports)
-http://acdn.bdixsports.live:1935/live/event.stream/playlist.m3u8?bdixsportstokenendtime=&bdixsportstokenstarttime=&bdixsportstokenhash=-hn1yHcVAcSAOvXZUVPQDXyEslilI4eNO7jxmhklVnE%3D
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 4 (MX)
+http://sports-localiptv.ml/Bangabandhu_BPL/RABBITHOLE_BD.m3u8
+
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 5 (BDIX8)
+http://stream.dhakaflix.com:8081/live/mystream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDIX1)
 http://45.127.244.7:8080/hls/channel2.m3u8
