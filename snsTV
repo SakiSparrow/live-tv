@@ -12,10 +12,10 @@ http://12.1.1.1:8082/Local-Sports/index.m3u8
 http://103.159.4.38:8080/BD-BANGLA-8/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 3 (Jadoo)
-https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1642959605&md5=pwofeTutWTkNWEdjGf8yBg&user=49729ec489674ef3912b6d7cd0822923
+http://sports-localiptv.ml/LOCALIPTV_LIVE.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 4 (MX)
-http://sports-localiptv.ml/Bangabandhu_BPL/RABBITHOLE_BD.m3u8
+http://sports-localiptv.ml/Bangabandhu_BPL/DORATV.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 5 (BDIX8)
 http://stream.dhakaflix.com:8081/live/mystream1/chunks.m3u8
