@@ -11,8 +11,8 @@ http://12.1.1.1:8082/Local-Sports/index.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 2 (BDIX9)
 http://103.159.4.38:8080/BD-BANGLA-8/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 3 
-http://sports-localiptv.ml/LOCALIPTV_LIVE.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 3 (BDIX11)
+http://live.flixhub.net/hls/t-sports.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 4 (MX)
 http://sports-localiptv.ml/Bangabandhu_BPL/DORATV.m3u8
@@ -38,8 +38,8 @@ http://shark2.dyndns.tv:5808/bd-gazi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDIX5)
 http://103.102.27.172:6464/Channel-1/index.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (SK)
-http://103.81.104.118/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDIX11)
+http://live.flixhub.net/hls/Gazi-TV.m3u8
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV (BDIX12)
 http://103.78.255.178:8080/gtv/index.m3u8
@@ -287,8 +287,8 @@ http://103.159.4.38:8080/BD-BANGLA-11/index.m3u8
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX7)
 http://stream.amrbd.com:8082/T-Sports/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDWatch)
-http://103.70.140.27:8080/hls/tsports.m3u8
+#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX11)
+http://live.flixhub.net/hls/t-sports.m3u8
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/tsports.jpg" group-title="Bangla",T sports (BDIX5)
 http://103.102.27.172:6464/Channel-2/index.m3u8
@@ -306,7 +306,7 @@ http://172.27.27.3:8088/hls/10_StarJalsha.m3u8
 http://tv2.ebox.live:8080/live/star-jalsha.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla (BDIX1)
-http://45.127.244.7:8080/hls/channel11.m3u8
+http://45.127.244.7:8080/hls/channel10.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla HD (BDIX3)
 http://172.27.27.3:8088/hls/12_ZeeBangla.m3u8
@@ -314,8 +314,14 @@ http://172.27.27.3:8088/hls/12_ZeeBangla.m3u8
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla HD (BDIX2)
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Bangla",Zee Bangla Cinema (BDIX1)
+http://45.127.244.7:8080/hls/channel11.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Bangla",Zee Bangla Cinema (BDIX2)
 http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath (BDIX11)
+http://live.flixhub.net/hls/Sony_Aath.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath 
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
@@ -325,6 +331,9 @@ http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla",Colors Bangla (akamai)
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/jalshamovies.png" group-title="Bangla", Star Jalsha Movies (BDIX1)
+http://45.127.244.7:8080/hls/channel13.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/jalshamovies.png" group-title="Bangla", Star Jalsha Movies (BDIX2)
 http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
