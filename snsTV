@@ -158,11 +158,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/deeptotv.jpg" group-title="Bangla",Deepto TV (BDIX2)
 http://43.230.123.21:8080/live/deeptotv.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png" group-title="Bangla",DESH TV
-http://208.86.19.21/629.stream/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png" group-title="Bangla",DESH TV (BDIX0)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
+https://somoy.appv.jagobd.com:444/somoy/deshtv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla",Duronto TV (BDCast2)
 http://89.187.185.89:3232/ban-duronto/index.m3u8
@@ -261,7 +258,7 @@ https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 http://103.106.2.149:13456/sangsad.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.akashdth.com/assets/uploads/channels_images/satv.png" group-title="Bangla",SA TV (BDIX0)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
+https://somoy.appv.jagobd.com:444/somoy/satvoff5666.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.akashdth.com/assets/uploads/channels_images/satv.png" group-title="Bangla",SA TV (BDIX7)
 http://stream.amrbd.com:8082/SATV/index.m3u8
@@ -365,17 +362,14 @@ https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/madnitvbangla/ma
 #EXTINF:1 tvg-logo="https://gcdn.pbrd.co/images/Ed72iry39VIg.png" group-title="Documentary",Animal Planet (BDIX2)
 http://tv2.ebox.live:8080/live/animale-planet.m3u8
 
-#EXTINF:1 tvg-logo="https://gcdn.pbrd.co/images/Ed72iry39VIg.png" group-title="Documentary",Animal Planet Hindi (jio)
-https://tvstream.space//jtv/ooo.php?c=Animal_Planet_Hindi&q=800&e=.m3u8
+#EXTINF:1 tvg-logo="https://gcdn.pbrd.co/images/Ed72iry39VIg.png" group-title="Documentary",Animal Planet Hindi (pk)
+http://103.153.39.36:8000/play/a011
 
 #EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet Hindi  (multitvsolution)
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 
-#EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery (jio)
-https://tvstream.space//jtv/ooo.php?c=Discovery&q=800&e=.m3u8
-
-#EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery Bangla (jio)
-https://tvstream.space//jtv/ooo.php?c=Discovery_Channel_Bengali&q=800&e=.m3u8
+#EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery (pk)
+http://103.153.39.36:8000/play/a00y
 
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery HD  (BDIX2)
 http://tv2.ebox.live:8080/live/discovery.m3u8
@@ -383,8 +377,8 @@ http://tv2.ebox.live:8080/live/discovery.m3u8
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery Hindi (multitvsolution)
 https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-science-logo-804ACEFF86-seeklogo.com.jpg" group-title="Documentary",Discovery Science (multitvsolution)
-https://idvd.multitvsolution.com/idvo/discoversciencehindi.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-science-logo-804ACEFF86-seeklogo.com.jpg" group-title="Documentary",Discovery Science (BDIX11)
+http://live.flixhub.net/hls/dis-science.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-science-logo-804ACEFF86-seeklogo.com.jpg" group-title="Documentary",Discovery Science English (jio)
 https://tvstream.space//jtv/ooo.php?c=Discovery_Science&q=800&e=.m3u8
@@ -408,16 +402,13 @@ https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 http://185.41.244.69/historia/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Documentary", History Channel Hindi (jio)
-https://tvstream.space//jtv/ooo.php?c=History_18_Hindi&q=800&e=.m3u8
+http://103.153.39.36:8000/play/a013
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png"  group-title="Documentary",TLC (multitvsolution)
 https://idvd.multitvsolution.com/idvo/tlceng_540p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png"  group-title="Documentary",TLC Hindi (jio)
-https://tvstream.space//jtv/ooo.php?c=TLC_Hindi&q=800&e=.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/daMmAUf.png"  group-title="Documentary",Sony BBC Earth (jio)
-https://tvstream.space//jtv/ooo.php?c=Sony_BBC_Earth_HD_English&q=800&e=.m3u8
+http://125.209.88.166:45793/BRN/BBCEarthHD.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/daMmAUf.png"  group-title="Documentary",BBC Earth 
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/index.m3u8
