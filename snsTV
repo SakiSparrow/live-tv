@@ -371,8 +371,8 @@ http://tv2.ebox.live:8080/live/animale-planet.m3u8
 #EXTINF:1 tvg-logo="https://gcdn.pbrd.co/images/Ed72iry39VIg.png" group-title="Documentary",Animal Planet Hindi (pk)
 http://103.153.39.36:8000/play/a011
 
-#EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet Hindi  (multitvsolution)
-https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
+#EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet Hindi  (BDIX11)
+http://live.flixhub.net/hls/animalplanent.m3u8
 
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery (pk)
 http://103.153.39.36:8000/play/a00y
@@ -380,8 +380,8 @@ http://103.153.39.36:8000/play/a00y
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery HD  (BDIX2)
 http://tv2.ebox.live:8080/live/discovery.m3u8
 
-#EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery Hindi (multitvsolution)
-https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
+#EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery Hindi (BDIX11)
+http://live.flixhub.net/hls/discovery.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-science-logo-804ACEFF86-seeklogo.com.jpg" group-title="Documentary",Discovery Science (BDIX11)
 http://live.flixhub.net/hls/dis-science.m3u8
@@ -407,17 +407,20 @@ https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Documentary", History Channel
 http://185.41.244.69/historia/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Documentary", History Channel Hindi (jio)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Documentary", History Channel Hindi (pk)
 http://103.153.39.36:8000/play/a013
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png"  group-title="Documentary",TLC (multitvsolution)
-https://idvd.multitvsolution.com/idvo/tlceng_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png"  group-title="Documentary",TLC (BDIX11)
+http://live.flixhub.net/hls/tlc.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/daMmAUf.png"  group-title="Documentary",Sony BBC Earth (jio)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/daMmAUf.png"  group-title="Documentary",Sony BBC Earth
 http://125.209.88.166:45793/BRN/BBCEarthHD.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/daMmAUf.png"  group-title="Documentary",BBC Earth 
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/daMmAUf.png"  group-title="Documentary",BBC Earth (BDIX11)
+http://live.flixhub.net/hls/bbcearth.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png"  group-title="Documentary",TravelXP 
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
