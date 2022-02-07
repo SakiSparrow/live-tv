@@ -15,7 +15,7 @@ http://103.159.4.38:8080/BD-BANGLA-11/index.m3u8
 https://ib.qqkkqqk.com/live/ch_2.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 4 (MX)
-http://sports-localiptv.ml/Bangabandhu_BPL/DORATV.m3u8
+https://tv.doratv.live/bpl_auto.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 5 (BDIX8)
 http://stream.dhakaflix.com:8081/live/mystream1/chunks.m3u8
@@ -43,6 +43,9 @@ http://live.flixhub.net/hls/Gazi-TV.m3u8
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV (BDIX12)
 http://103.78.255.178:8080/gtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangla",Asian TV (BDIX9)
+http://103.159.4.38:5868/BD-BANGLA-22/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangla",Asian TV 
 https://live2.bd-cast.net/jago/1/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
@@ -164,7 +167,7 @@ https://somoy.appv.jagobd.com:444/somoy/deshtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla",Duronto TV (BDCast2)
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 
-EXTINF:-1 tvg-logo="https://tinyurl.com/pwntay2x" group-title="Bangla",Ekattor TV (BDIX9)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/pwntay2x" group-title="Bangla",Ekattor TV (BDIX9)
 http://103.159.4.38:5868/BD-BANGLA-7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/pwntay2x" group-title="Bangla",Ekattor TV (BDIX7)
@@ -230,7 +233,7 @@ https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (BDIX7)
 http://stream.amrbd.com:8082/Ntv/index.m3u8
 
-EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (BDIX9)
+#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (BDIX9)
 http://103.159.4.38:8080/BD-BANGLA-18/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg" group-title="Bangla",News24 (BDIX0)
