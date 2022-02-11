@@ -8,6 +8,9 @@ http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 2 (BDIX7)
 http://12.1.1.1:8082/Local-Sports/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 5 (BDIX8)
+http://stream.dhakaflix.com:8081/live/mystream1/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 2 (BDIX9)
 http://103.159.4.38:8080/BD-BANGLA-11/index.m3u8
 
@@ -15,10 +18,7 @@ http://103.159.4.38:8080/BD-BANGLA-11/index.m3u8
 https://ib.qqkkqqk.com/live/ch_2.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 4 (MX)
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/AdVH1bF5MdzLz6msLWl33loVini7liCplTrwDxjUtRb6tDRJhV01BnmXMbl4DwLcxD0m2Omw3UVHlSZBcGeAtA/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8
-
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 5 (BDIX8)
-http://stream.dhakaflix.com:8081/live/mystream1/chunks.m3u8
+http://sports-localiptv.ml/Bangabandhu_BPL/FANCODE.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDIX1)
 http://45.127.244.7:8080/hls/channel2.m3u8
@@ -28,12 +28,6 @@ http://172.27.27.3:8088/hls/01_Gazitv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV (BDIX7)
 http://stream.amrbd.com:8082/Gazi-Tv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDIX8)
-http://stream.dhakaflix.com:8081/main/mystream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDcast2)
-http://shark2.dyndns.tv:5808/bd-gazi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDIX5)
 http://103.102.27.172:6464/Channel-1/index.m3u8
@@ -280,6 +274,9 @@ http://172.27.27.3:8088/hls/06_T-SportsBD.m3u8
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/tsports.jpg" group-title="Bangla",T sports (BDIX1)
 http://45.127.244.7:8080/hls/channel3.m3u8
+
+#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T Sports HD (BDIX8)
+http://stream.dhakaflix.com:8081/main/mystream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX9)
 http://103.159.4.38:8080/BD-BANGLA-8/index.m3u8
