@@ -15,7 +15,7 @@ http://103.159.4.38:8080/BD-BANGLA-11/index.m3u8
 https://ib.qqkkqqk.com/live/ch_2.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 4 (MX)
-https://tv.doratv.live/bpl_auto.m3u8
+https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/AdVH1bF5MdzLz6msLWl33loVini7liCplTrwDxjUtRb6tDRJhV01BnmXMbl4DwLcxD0m2Omw3UVHlSZBcGeAtA/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 5 (BDIX8)
 http://stream.dhakaflix.com:8081/live/mystream1/chunks.m3u8
