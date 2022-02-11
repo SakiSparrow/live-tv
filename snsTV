@@ -393,7 +393,7 @@ http://live.flixhub.net/hls/discovery.m3u8
 http://live.flixhub.net/hls/dis-science.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-science-logo-804ACEFF86-seeklogo.com.jpg" group-title="Documentary",Discovery Science English (jio)
-https://tvstream.space//jtv/ooo.php?c=Discovery_Science&q=800&e=.m3u8
+https://tvstream.fun/jtv/m2u.php?c=Discovery_Science&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" group-title="Documentary", NASA TV  (akamai)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
@@ -506,8 +506,8 @@ http://tv2.ebox.live:8080/live/sonyespn.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg"  group-title="Sports",Star Sports 1 HD (BDIX2)
 http://tv2.ebox.live:8080/live/starsports-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg"  group-title="Sports",Star Sports 1 HD (BDIX3)
-http://172.27.27.3:8088/hls/15_ptv_sports.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg"  group-title="Sports",Star Sports 1 HD (BDC)
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/179.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg"  group-title="Sports",Star Sports 1 (BDIX4)
 http://10.100.100.134/live/skyfeed1004/index.m3u8
