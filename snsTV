@@ -15,7 +15,7 @@ http://172.16.50.250:8081/live/mystream1/chunks.m3u8
 http://103.159.4.38:8080/BD-BANGLA-11/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 5 (BDIX15)
-https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
+https://103.159.36.196:30443/Channel-1/tracks-v1a1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 6 (qq)
 https://ib.qqkkqqk.com/live/ch_2.m3u8
