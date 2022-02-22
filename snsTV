@@ -845,8 +845,14 @@ https://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPuBXRz.jpg" group-title="Hindi Movies",Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 
+#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/wowcinema.jpg" group-title="Hindi Movies",WoW Cinemas (BDIX7)
+http://stream.amrbd.com:8082/Wow-Cinema/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="Hindi Movies",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="Hindi Movies",Bflix Movies (BDIX7)
+http://stream.amrbd.com:8082/bflix/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india_400x400.png" group-title="Hindi Music", Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
