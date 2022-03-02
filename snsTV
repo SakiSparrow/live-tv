@@ -30,7 +30,7 @@ http://194.67.196.19/hls/104.m3u8
 http://194.67.196.19/hls/103.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 3
-http://194.67.196.19/hls/101.m3u8
+http://194.67.196.19/hls/106.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 4
 https://sl03.varcdn1.ru/m2/index.m3u8
