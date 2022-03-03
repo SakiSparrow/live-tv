@@ -36,7 +36,7 @@ http://194.67.196.19/hls/106.m3u8
 https://sl03.varcdn1.ru/m2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 5
-http://185.53.89.183/hls/bt2.m3u8
+https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 6
 http://93.157.62.180/KSport1/index.m3u8
