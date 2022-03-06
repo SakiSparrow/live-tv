@@ -68,6 +68,9 @@ http://stream.amrbd.com:8082/Gazi-Tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV (BDIX13)
 http://103.84.253.5/live/4/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV (BDIX16)
+http://td.chowdhury-shaheb.com/live/gazi/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDIX5)
 http://103.102.27.172:6464/Channel-1/index.m3u8
 
@@ -209,8 +212,8 @@ https://somoy.appv.jagobd.com:444/somoy/deshtv.stream/playlist.m3u8
 EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png" group-title="Bangla",DESH TV
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/29108.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla",Duronto TV (BDCast2)
-http://89.187.185.89:3232/ban-duronto/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla",Duronto TV (BDIX16)
+http://td.chowdhury-shaheb.com/live/duranta/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",Ekattor TV (BDIX9)
 http://103.159.4.38:5868/BD-BANGLA-7/index.m3u8
@@ -340,6 +343,9 @@ http://12.1.1.1:8082/Local-Sports/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX13)
 http://103.84.253.5/live/0/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX16)
+http://td.chowdhury-shaheb.com/live/titastv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX14)
 http://103.55.144.46/hls/t-sports.m3u8
