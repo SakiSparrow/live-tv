@@ -20,27 +20,6 @@ http://103.166.253.222/hls/t-sports.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 7 (BDIX7)
 http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 7 (temporary)
-https://dai.google.com:443/linear/hls/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 1
-http://194.67.196.19/hls/104.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 2 
-http://194.67.196.19/hls/103.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 3
-http://194.67.196.19/hls/101.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 4
-https://sl03.varcdn1.ru/m2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 5
-http://185.53.89.183/hls/bt2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 6
-http://93.157.62.180/KSport1/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 7
 http://170.80.242.242/hls/ESPN.m3u8
 
@@ -326,9 +305,6 @@ http://103.166.253.222/hls/Sony_Aath.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath 
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla",Colors Bangla (BDIX2)
-http://tv2.ebox.live:8080/live/colors-bangla.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla",Colors Bangla (str)
 http://str24.l9574.com/616.stream/index.m3u8
 
@@ -353,7 +329,6 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://durbinlive.com/uploads/tv_image/sm/madani-channel-bangla.jpg" group-title="Islamic", Madani TV
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/madnitvbangla/madnibangla_1080p/chunks.m3u8
 
-
 #EXTINF:1 tvg-logo="https://gcdn.pbrd.co/images/Ed72iry39VIg.png" group-title="Documentary",Animal Planet Hindi (pk)
 http://103.153.39.36:8000/play/a011
 
@@ -362,7 +337,6 @@ http://live.flixhub.net/hls/animalplanent.m3u8
 
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery (pk)
 http://103.153.39.36:8000/play/a00y
-
 
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery Hindi (BDIX11)
 http://live.flixhub.net/hls/discovery.m3u8
