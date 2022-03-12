@@ -14,16 +14,15 @@ http://103.159.4.38:8080/BD-BANGLA-11/index.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 5 (BDIX12)
 http://103.70.140.27:8080/hls/StarSports1FHD.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 6
-http://89.38.97.235:1935/totalsports/live/playlist.m3u8
+EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 6
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 2 (BDIX7)
 http://stream.amrbd.com:8082/T-Sports/index.m3u8
 
-EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 7 (temporary)
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 7 (temporary)
 https://dai.google.com:443/linear/hls/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8
 
-EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 8 (temporary)
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 8 (temporary)
 https://snehtv-march.in1.bitmana.io/jiotv/snehjioxyy.php?c=Jio_Cricket&q=1200&e=.m3u8ideo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 1
