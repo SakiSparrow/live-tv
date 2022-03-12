@@ -432,10 +432,10 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://durbinlive.com/uploads/tv_image/sm/madani-channel-bangla.jpg" group-title="Islamic", Madani TV
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/madnitvbangla/madnibangla_1080p/chunks.m3u8
 
-#EXTINF:1 tvg-logo="https://gcdn.pbrd.co/images/Ed72iry39VIg.png" group-title="Documentary",Animal Planet (BDIX2)
+#EXTINF:1 tvg-logo="https://i.imgur.com/sdRiPGf.png" group-title="Documentary",Animal Planet (BDIX2)
 http://tv2.ebox.live:8080/live/animale-planet.m3u8
 
-#EXTINF:1 tvg-logo="https://gcdn.pbrd.co/images/Ed72iry39VIg.png" group-title="Documentary",Animal Planet Hindi (pk)
+#EXTINF:1 tvg-logo="https://i.imgur.com/sdRiPGf.png" group-title="Documentary",Animal Planet Hindi (pk)
 http://103.153.39.36:8000/play/a011
 
 #EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet Hindi  (BDIX11)
