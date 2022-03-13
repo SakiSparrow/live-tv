@@ -24,7 +24,7 @@ http://stream.amrbd.com:8082/T-Sports/index.m3u8
 https://dai.google.com:443/linear/hls/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 8 (temporary)
-https://snehtv-march.in1.bitmana.io/jiotv/snehjioxyy.php?c=Jio_Cricket&q=1200&e=.m3u8ideo.m3u8
+https://prod-ec-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/iwtf63DgRmAUP1vDT8qIE5TmRJ0GfivfzldMOBROQ5vl6EyMnAA022q4GVbtFdeVUhFAij-St3t_2WjEMbOwGw/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 1
 https://srv01.varcdn1.ru/mp/index.m3u8
