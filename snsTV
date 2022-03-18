@@ -20,11 +20,11 @@ https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports  5 (BDIX7)
 http://stream.amrbd.com:8082/T-Sports/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 7 (temporary)
-https://dai.google.com:443/linear/hls/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8
-
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 8 (temporary)
-https://prod-ec-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/iwtf63DgRmAUP1vDT8qIE5TmRJ0GfivfzldMOBROQ5vl6EyMnAA022q4GVbtFdeVUhFAij-St3t_2WjEMbOwGw/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/dynamic_highlatency.m3u8?type=live
+https://prod-ec-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/4L6SBS86yMd8wJsLPH1GP0TzQk96aYQTCPZNK5xdNz2iZtLbzGZ6cmbMAicMDAugDAL4zggZl1GBQvp57lTh0g/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8
+
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 7 (temporary)
+https://dai.google.com:443/linear/hls/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8ranscode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8ranscode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 1
 http://194.67.196.19/hls/103.m3u8
