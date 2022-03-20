@@ -21,7 +21,7 @@ EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live 
 http://stream.amrbd.com:8082/T-Sports/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 8 (temporary)
-https://sports-localiptv.ml/CRICKET_SERIES_CHANNEL_1.m3u8
+https://playlist-localiptv.ml/LIVE_SPORTS_1.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 7 (temporary)
 http://stariptv.org:8080/live/nour2020/123456/148521.m3u8
