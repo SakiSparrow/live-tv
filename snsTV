@@ -365,8 +365,8 @@ http://172.16.50.250:8081/main/mystream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX9)
 http://103.159.4.38:8080/BD-BANGLA-8/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports  (BDIX16)
-http://bdiptv.net:8080/TSports/index.m3u8
+#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX18)
+http://103.112.55.107:9090/play/a02g/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX7)
 http://12.1.1.1:8082/Local-Sports/index.m3u8
