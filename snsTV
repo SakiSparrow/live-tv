@@ -17,7 +17,7 @@ http://103.70.140.27:8080/hls/StarSports1FHD.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 6 (BDIX18)
 http://103.112.55.107:9090/play/a02h/index.m3u8
 
-EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports  5 (Temporary - Fancode)
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports  5 (Temporary - Fancode)
 https://playlist-localiptv.ml/CRICKET_SERIES_CHANNEL_4.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 8 (temporary)
