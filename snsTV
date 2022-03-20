@@ -27,10 +27,10 @@ https://playlist-localiptv.ml/LIVE_SPORTS_1.m3u8
 http://stariptv.org:8080/live/nour2020/123456/148521.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 1
-https://live-localiptv.tk/LaLiga_CHANNEL_1.m3u8
+https://live-localiptv.tk/LaLiga_CHANNEL_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 2
-https://live-localiptv.tk/FA_Cup_CHANNEL_1.m3u8
+https://live-localiptv.tk/FA_Cup_CHANNEL_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 3
 https://live-localiptv.tk/LaLiga_CHANNEL_2.m3u8
