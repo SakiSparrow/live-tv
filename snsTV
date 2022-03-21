@@ -14,17 +14,20 @@ http://103.159.4.38:8080/BD-BANGLA-11/index.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 4 (BDIX12)
 http://103.70.140.27:8080/hls/StarSports1FHD.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 6 (BDIX18)
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 5 (BDIX18)
 http://103.112.55.107:9090/play/a02h/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports  5 (Temporary - Fancode)
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 6 (Temporary - Fancode)
 https://playlist-localiptv.ml/CRICKET_SERIES_CHANNEL_4.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 8 (temporary)
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 7 (temporary)
 https://playlist-localiptv.ml/LIVE_SPORTS_1.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 7 (temporary)
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 8 (temporary)
 http://stariptv.org:8080/live/nour2020/123456/148521.m3u8
+
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 9 (temporary)
+https://sports-localiptv.ml/CRICKET_SERIES_CHANNEL_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 1
 https://live-localiptv.tk/LaLiga_CHANNEL_3.m3u8
