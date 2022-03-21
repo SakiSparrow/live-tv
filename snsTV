@@ -225,7 +225,7 @@ EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png" group-
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/29108.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla",Duronto TV (BDIX16)
-http://td.chowdhury-shaheb.com/live/duranta/chunks.m3u8
+http://103.149.130.122:8089/10/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",Ekattor TV (BDIX9)
 http://103.159.4.38:5868/BD-BANGLA-7/index.m3u8
@@ -234,7 +234,7 @@ http://103.159.4.38:5868/BD-BANGLA-7/index.m3u8
 http://stream.amrbd.com:8082/Ekattor-tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",Ekattor TV (BDIX16)
-http://bdiptv.net:8080/EkattorTV/index.m3u8
+http://103.149.130.122:8089/11/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/etv.jpg" group-title="Bangla",Ekushey TV (BDIX10)
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
