@@ -78,7 +78,7 @@ http://103.102.27.172:6464/Channel-1/index.m3u8
 http://103.84.253.5/live/4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangla",Asian TV (BDIX9)
-http://103.159.4.38:5868/BD-BANGLA-22/index.m3u8
+http://103.112.55.107:9090/play/a02k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangla",Asian TV (JagoBD)
 https://bdcast-live2.b-cdn.net/jago/1/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
@@ -493,6 +493,9 @@ http://live.flixhub.net/hls/animalplanent.m3u8
 
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery (pk)
 http://103.153.39.36:8000/play/a00y
+
+#EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery HD (BDIX18)
+http://103.112.55.107:9090/play/a02s/index.m3u8
 
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery HD  (BDIX2)
 http://tv2.ebox.live:8080/live/discovery.m3u8
