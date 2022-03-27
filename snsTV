@@ -491,6 +491,9 @@ http://103.153.39.36:8000/play/a011
 #EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet Hindi  (BDIX11)
 http://live.flixhub.net/hls/animalplanent.m3u8
 
+#EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet Hindi  (BDIX14)
+http://103.55.144.46/hls/animalplanent.m3u8
+
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery (pk)
 http://103.153.39.36:8000/play/a00y
 
@@ -499,6 +502,9 @@ http://tv2.ebox.live:8080/live/discovery.m3u8
 
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery Hindi (BDIX11)
 http://live.flixhub.net/hls/discovery.m3u8
+
+#EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery HD (BDIX14)
+http://103.55.144.46/hls/discovery.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-science-logo-804ACEFF86-seeklogo.com.jpg" group-title="Documentary",Discovery Science (BDIX11)
 http://live.flixhub.net/hls/dis-science.m3u8
@@ -527,6 +533,9 @@ http://103.55.144.46/hls/ngohd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Documentary", National Geographic Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Documentary", National Geographic Wild HD (BDIX14)
+http://103.55.144.46/hls/wild.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Documentary", History Channel
 http://185.41.244.69/historia/index.m3u8
 
@@ -535,6 +544,9 @@ http://103.153.39.36:8000/play/a013
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png"  group-title="Documentary",TLC (BDIX11)
 http://live.flixhub.net/hls/tlc.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png"  group-title="Documentary",TLC (BDIX14)
+http://103.55.144.46/hls/tlc.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/daMmAUf.png"  group-title="Documentary", BBC Earth
 http://125.209.88.166:45793/BRN/BBCEarthHD.stream/playlist.m3u8
@@ -554,6 +566,9 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dTTQm8W.png" group-title="Sports",Ten Sports (BDIX2)
 http://tv2.ebox.live:8080/live/ten-sports.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dTTQm8W.png" group-title="Sports",Ten Sports (BDIX14)
+http://103.55.144.46/hls/ten.m3u8
+
 #EXTINF:-1 tvg-logo="http://live.siyathatv.lk/siyathatv_logo.jpg" group-title="Sports", Siyatha  TV
 http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
 
@@ -566,8 +581,8 @@ http://tv2.ebox.live:8080/live/ptvsports.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png"  group-title="Sports",PTV Sports (BDCable)
 http://jupiter.bdcabletv.com/PTV_Sports/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png"  group-title="Sports",PTV Sports (pk)
-http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png"  group-title="Sports",PTV Sports (BDIX14)
+http://103.55.144.46/hls/ptv.m3u8
 
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png"  group-title="Sports",PTV Sports (ebone.pk)
 http://103.24.96.74/stream/ptvsports/playlist.m3u8
@@ -614,6 +629,9 @@ http://103.55.144.46/hls/sonyten2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m2eh8lp.png"  group-title="Sports",Sony Ten 3 HD (BDIX2)
 http://tv2.ebox.live:8080/live/sonyten-3.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m2eh8lp.png"  group-title="Sports",Sony Ten 3 HD (BDIX14)
+http://103.55.144.46/hls/sonyten3.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m2eh8lp.png"  group-title="Sports",Sony Ten 3 (BDIX7)
 http://stream.amrbd.com:8082/Ten3/index.m3u8
 
@@ -656,7 +674,7 @@ http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg"  group-title="Sports",Star Sports Select 1 HD (BDIX2)
 http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8 
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg"  group-title="Sports",Star Sports Select 1 (BDIX14)
+EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg"  group-title="Sports",Star Sports Select 1 HD (BDIX14)
 http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg"  group-title="Sports",Star Sports Select 1 HD (BDIX3)
