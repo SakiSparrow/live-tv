@@ -12,28 +12,13 @@ http://172.16.50.250:8081/main/mystream/chunks.m3u8
 http://12.1.1.1:8081/live/Star-Sports1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 4 (Temporary)
-http://178.218.196.218:8000/play/a008/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 6 (Temporary)
-https://king.nowtv.vip/live/sscricket/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 7 (temporary)
-https://king.nowtv.vip/live/skycricket/chunks.m3u8
+http://tv.fnfonlinebd.com/live/fnffeed1003/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 8 (temporary)
-http://diokz91u21fy1.cloudfront.net/iplch2/2022/master.m3u8
+http://tv.fnfonlinebd.com/live/fnffeed1002/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 9 (temporary)
-http://stariptv.org:8080/live/nour2020/123456/148521.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 1
-http://loga.ultratotal.ml/xls/ligota/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 2
-https://live-localiptv.tk/FA_Cup_CHANNEL_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 3
-https://live-localiptv.tk/LaLiga_CHANNEL_2.m3u8
+http://tv.fnfonlinebd.com/live/fnffeed1004/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 4
 https://ppv.gcdn.co/FOOT3/index.m3u8
@@ -346,8 +331,8 @@ http://10.16.100.245/hindi/Tsport$local.m3u8
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX12)
 http://103.70.140.27:8080/hls/tsports.m3u8
 
-EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX9)
-http://103.159.4.38:9191/BD-BANGLA-8/index.m3u8
+#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX9)
+http://tv.fnfonlinebd.com/live/fnffeed1005/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX16)
 http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
