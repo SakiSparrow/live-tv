@@ -59,11 +59,8 @@ http://172.27.27.3:8088/hls/01_Gazitv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDIX16)
 http://103.149.130.122:8089/1/index.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV (BDIX7)
-http://stream.amrbd.com:8082/Gazi-Tv/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV (BDIX19)
-http://103.111.120.94:8089/1/index.m3u8
+http://103.148.178.231/GTV4K/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDIX5)
 http://103.102.27.172:6464/Channel-1/index.m3u8
@@ -334,11 +331,8 @@ http://45.127.244.7:8080/hls/channel3.m3u8
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX12)
 http://103.70.140.27:8080/hls/tsports.m3u8
 
-#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX9)
+EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX9)
 http://103.159.4.38:9191/BD-BANGLA-8/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX19)
-http://103.111.120.94:8089/102/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX16)
 http://103.149.130.122:8089/102/index.m3u8
@@ -349,7 +343,7 @@ http://103.55.144.46/hls/t-sports.m3u8
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/tsports.jpg" group-title="Bangla",T sports (BDIX5)
 http://103.102.27.172:6464/Channel-2/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX13)
+EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX13)
 http://103.84.253.5/live/0/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LeIa06D.png" group-title="Bangla", ABP Ananda (akamai)
