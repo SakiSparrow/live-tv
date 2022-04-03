@@ -11,14 +11,14 @@ http://172.16.50.250:8081/main/mystream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 3 (BDIX7)
 http://12.1.1.1:8081/live/Star-Sports1/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 6 (BDIX)
+http://103.135.133.21/hls/stream3.m3u8
+
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 4 (Temporary)
 http://178.218.196.218:8000/play/a008/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 6 (Temporary)
-http://103.135.133.21/hls/stream1.m3u8
-
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 7 (temporary)
-http://103.239.255.212:8000/play/a02h/index.m3u8
+http://103.135.133.21/hls/stream4.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 8 (temporary)
 http://103.239.255.212:8000/play/a02g/index.m3u8
@@ -29,10 +29,10 @@ http://stariptv.org:8080/live/nour2020/123456/148521.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 1
 http://loga.ultratotal.ml/xls/ligota/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 2
+EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 2
 https://live-localiptv.tk/FA_Cup_CHANNEL_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 3
+EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 3
 https://live-localiptv.tk/LaLiga_CHANNEL_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 4
