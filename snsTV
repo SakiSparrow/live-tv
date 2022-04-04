@@ -21,7 +21,7 @@ http://178.218.196.218:8000/play/a008/index.m3u8
 http://103.135.133.21/hls/stream4.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 8 (temporary)
-http://103.239.255.212:8000/play/a02g/index.m3u8
+https://nayeem-parvez.gq/Hotstar-English.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 9 (temporary)
 http://stariptv.org:8080/live/nour2020/123456/148521.m3u8
