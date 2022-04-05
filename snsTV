@@ -30,16 +30,16 @@ http://stariptv.org:8080/live/nour2020/123456/148521.m3u8
 http://loga.ultratotal.ml/xls/ligota/index.m3u8
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 2
-https://live-localiptv.tk/FA_Cup_CHANNEL_2.m3u8
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/m3u8/Bein-Sport-Pre2_tracks-v1a1_mono.m3u8
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 3
-https://live-localiptv.tk/LaLiga_CHANNEL_2.m3u8
+http://92.43.140.200/s81/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 4
-https://ppv.gcdn.co/FOOT3/index.m3u8
+http://92.43.140.200/s81/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 5
-https://ppv.gcdn.co/FOOT2/index.m3u8
+http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 6
 https://stream.mmsiptv.com/droid/rmc1/playlist.m3u8
