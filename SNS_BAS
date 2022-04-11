@@ -617,7 +617,7 @@ http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
 #EXTINF:-1 tvg-logo="https://pasteboard.co/PWnVgfkY9RTB.png"  group-title="Sports",Star Sports Select 2 HD  (BDIX14)
 http://103.55.144.46/hls/select2.m3u8
 
-#EXTINF:-1 tvg-logo="https://pasteboard.co/PWnVgfkY9RTB.png"  group-title="Sports",Star Sports Select 2 HD  (BDIX3)
+#EXTINF:-1 tvg-logo="https://pasteboard.co/PWnVgfkY9RTB.png"  group-title="Sports",Star Sports Select 2 HD  (BDIX7)
 http://10.16.100.207:8082/sports/ssselecthd2two.m3u8
 
 #EXTINF:-1 tvg-logo="https://pasteboard.co/PWnVgfkY9RTB.png"  group-title="Sports",Star Sports Select 2 HD   (BDIX5)
