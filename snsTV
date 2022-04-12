@@ -15,7 +15,7 @@ http://12.1.1.1:8081/live/Star-Sports1/chunks.m3u8
 http://103.70.140.27:8080/hls/StarSports1FHD.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 4 (Temporary)
-http://178.218.196.218:8000/play/a008/index.m3u8
+http://125.209.88.166:45793/BRN/beINSP13.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 7 (temporary)
 http://file.midiplexhd.com/hls/sky14.m3u8
@@ -77,8 +77,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla",ATN Bangla (BDIX0)
 https://somoy.appv.jagobd.com:444/somoy/atnbd-8-org.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla",ATN Bangla (BDIX12)
-http://103.70.140.27:8080/hls/atnbangla.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla",ATN Bangla (BDIX7)
+http://stream.amrbd.com:8082/ATN-Bangla/tracks-v1a1/mono.m3u8l
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla",ATN Bangla (BDIX2)
 http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
@@ -86,8 +86,8 @@ http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/108.jpg" group-title="Bangla",ATN News (BDIX0)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/108.jpg" group-title="Bangla",ATN News (BDIX12)
-http://103.70.140.27:8080/hls/atn_news.m3u8
+#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/108.jpg" group-title="Bangla",ATN News (BDIX7)
+http://stream.amrbd.com:8082/Atn-News/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/108.jpg" group-title="Bangla",ATN News (BDIX2)
 http://tv2.ebox.live:8080/live/ex-atnae.m3u8
@@ -234,7 +234,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://103.70.140.27:8080/hls/mohonatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV (BDIX7)
-http://103.127.92.38:8080/live/ajob/baksho/3.m3u8
+http://stream.amrbd.com:8082/Nagorik-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV UK
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
