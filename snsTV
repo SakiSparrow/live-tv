@@ -21,7 +21,7 @@ http://125.209.88.166:45793/BRN/beINSP13.stream/playlist.m3u8
 http://file.midiplexhd.com/hls/sky14.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 8 (temporary)
-http://103.150.209.115:8000/play/a01j/index.m3u8
+http://178.218.196.218:8000/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 9 (temporary)
 http://stariptv.org:8080/live/nour2020/123456/148521.m3u8
