@@ -33,10 +33,10 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football"
 http://125.209.88.166:45793/BRN/beINSP13.stream/playlist.m3u8
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 3
-http://92.43.140.200/s81/03.m3u8
+http://178.218.196.218:8000/play/a004/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 4
-http://92.43.140.200/s81/04.m3u8
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 5
 http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
@@ -182,8 +182,8 @@ http://stariptv.org:8080/nour2020/123456/99393
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",Ekattor TV (BDIX7)
 http://12.1.1.1:8082/Ekattor-tv/index.m3u8
 
-EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",Ekattor TV (BDIX16)
-https://liv-bd.sonyplex.net/MDE0GIDU6R/ekattortv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",Ekattor TV (BDIX16)
+http://nayeemparvez-ab.myftp.biz:8080/live/Banglaajob/baksho/28.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/etv.jpg" group-title="Bangla",Ekushey TV (BDIX10)
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
