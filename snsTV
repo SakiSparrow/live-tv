@@ -29,11 +29,11 @@ http://stariptv.org:8080/live/nour2020/123456/148521.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 1
 http://loga.ultratotal.ml/xls/ligota/index.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 2
-http://125.209.88.166:45793/BRN/beINSP13.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 2
+https://football-localiptv.ml/UEFA_Champions_League_CHANNEL_6.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 3
-http://178.218.196.218:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 3
+https://sami-rian.ml/Join-us-on-telegram_@AllLiveSportsLinks/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 4
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
@@ -42,7 +42,7 @@ http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 6
-https://stream.mmsiptv.com/droid/rmc1/playlist.m3u8
+http://178.218.196.218:8000/play/a004/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 7
 https://stream.mmsiptv.com/droid/rmc2/playlist.m3u8
