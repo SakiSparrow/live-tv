@@ -18,7 +18,7 @@ http://103.70.140.27:8080/hls/StarSports1FHD.m3u8
 http://125.209.88.166:45793/BRN/beINSP13.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 7 (temporary)
-http://file.midiplexhd.com/hls/sky14.m3u8
+http://31.172.87.30:2200/AFR-EX/SuperSport_Cricket_AZ_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_-N78VqiFRKf3_TvYRhwvAg%3D%3D%2C1649838163.9659699029=
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 8 (temporary)
 http://178.218.196.218:8000/play/a008/index.m3u8
