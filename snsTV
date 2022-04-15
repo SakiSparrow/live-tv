@@ -59,6 +59,9 @@ http://172.27.27.3:8088/hls/01_Gazitv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV (BDIX7)
 http://12.1.1.1:8082/Gazi-Tv/index.m3u8
 
+EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV HD (BDIX14)
+http://103.55.144.46/hls/Gazi-TV.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV (BDIX13)
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 
