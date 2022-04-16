@@ -30,7 +30,7 @@ EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live 
 http://tv2.ebox.live:8080/live/channel9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 2
-https://football-localiptv.ml/UEFA_Champions_League_CHANNEL_6.m3u8
+https://sami-rian.ml/Join-us-on-telegram_@AllLiveSportsLinks/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 3
 http://loga.ultratotal.ml/xls/ligota/index.m3u8
@@ -45,10 +45,10 @@ http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 http://178.218.196.218:8000/play/a004/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 7
-https://stream.mmsiptv.com/droid/rmc2/playlist.m3u8
+http://194.67.196.19/hls/103.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 8
-https://stream.mmsiptv.com/droid/rmc3/playlist.m3u8
+http://194.67.196.19/hls/104.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDIX1)
 http://45.127.244.7:8080/hls/channel2.m3u8
