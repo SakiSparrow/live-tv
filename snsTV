@@ -176,7 +176,7 @@ https://somoy.appv.jagobd.com:444/somoy/deshtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla",Duronto TV (BDIX)
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",Ekattor TV
+EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",Ekattor TV
 http://stariptv.org:8080/nour2020/123456/99393
 
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",Ekattor TV (BDIX7)
@@ -401,8 +401,8 @@ http://tv2.ebox.live:8080/live/animale-planet.m3u8
 EXTINF:1 tvg-logo="https://i.imgur.com/sdRiPGf.png" group-title="Documentary",Animal Planet Hindi (pk)
 
 
-#EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet
-http://iptv.tvfix.org/hls/animal.m3u8 
+EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet
+ 
 
 #EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet Hindi  (BDIX14)
 http://103.55.144.46/hls/animalplanent.m3u8
@@ -430,9 +430,6 @@ http://iptv.prosto.tv:7000/ch83/video.m3u8
 
 #EXTINF:1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary", National Geographic (BDIX2)
 http://tv2.ebox.live:8080/live/natg.m3u8
-
-#EXTINF:1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary", National Geographic (BDIX9)
-http://103.159.4.38:8080/ENTEMENT-4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary", National Geographic HD (BDIX14)
 http://103.55.144.46/hls/ngohd.m3u8
@@ -587,12 +584,6 @@ http://103.55.144.46/hls/select2.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/starselect2.jpg"  group-title="Sports",Star Sports Select 2 HD  (BDIX3)
 http://172.27.27.3:8088/hls/08StarSports2.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/starselect2.jpg"  group-title="Sports",Star Sports Select 2 HD   (BDIX9)
-http://103.159.4.38:9090/SPORTS-12/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/starselect2.jpg"  group-title="Sports",Star Sports Select 2 HD   (BDIX5)
-http://103.102.27.172:6464/Channel-4/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png" group-title="Sports" ,Sky Sports Cricket (BDIX2)
 http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
 
@@ -638,8 +629,8 @@ https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News
-http://www.filmon.com/vr-streams/27.high/playlist.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fRivJD3.jpg" group-title="News",Al Jazeera HD
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
@@ -661,9 +652,6 @@ https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dUiPQw8.png" group-title="News",NHK World (akamai)
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://adnas.com/wp-content/uploads/2019/08/fox-news-logo.jpg" ,FOX NEWS
-http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-1.png" ,CNN NEWS
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
@@ -791,9 +779,6 @@ https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wqUgd0k.png"  group-title="Hindi Music", B4U Music (BDIX7)
 http://stream.amrbd.com:8082/Zoom/index.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/Qj3xwcc.jpg"  group-title="Hindi Music",Zing (jio)
-https://tvstream.space//jtv/ooo.php?c=Zing&q=800&e=.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Hindi Music", MTV (BDIX2)
 http://tv2.ebox.live:8080/live/starsports-3.m3u8
 
@@ -842,11 +827,7 @@ http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi Movies",UTV Action
 http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
 
-#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.imgur.com/IpKuSbU.png" ,AXN
-http://titanicos.net:8080/live/WAYBRETV6611/WAYBRETV8812/32181.m3u8
 
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://i.imgur.com/rfjCQoz.png" , Star World
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2019/04/rishtey-cineplex_1555156123.jpg" group-title="Hindi Movies",Rishtey Cineplex (multitvsolution)
-https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
