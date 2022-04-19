@@ -11,13 +11,13 @@ http://172.16.50.250:8081/main/mystream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 3 (BDIX7)
 http://12.1.1.1:8081/live/Star-Sports1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 5 (temporary)
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 4 (temporary)
 http://103.135.133.3/hls/stream3.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 6 (BDIX12)
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 5 (BDIX12)
 http://103.70.140.27:8080/hls/StarSports1FHD.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 4 (Temporary)
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 6 (Temporary)
 http://125.209.88.166:45793/BRN/beINSP13.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 7 (temporary)
