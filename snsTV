@@ -11,14 +11,14 @@ http://172.16.50.250:8081/main/mystream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 3 (BDIX7)
 http://12.1.1.1:8081/live/Star-Sports1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 4 (temporary)
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 4 (BDIX - temporary)
 http://103.135.133.3/hls/stream3.m3u8
 
-EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 5 (BDIX12)
-http://103.70.140.27:8080/hls/StarSports1FHD.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 5 (BDIX)
+http://stream.accessnetbd.com/hls/access-tsports.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 6 (Temporary)
-http://125.209.88.166:45793/BRN/beINSP13.stream/playlist.m3u8
+http://89.187.162.109/STARSPORTS1HINDIHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 7 (temporary)
 http://178.218.196.218:8000/play/a008/index.m3u8
@@ -314,6 +314,9 @@ http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha HD (BDIX14)
 http://103.55.144.46/hls/starjalsha.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha (str)
+http://89.187.162.109/STARJALSHA/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha HD (BDIX2)
 http://tv2.ebox.live:8080/live/star-jalsha.m3u8
 
@@ -428,8 +431,8 @@ https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Documentary", National Geographic Wild HD (BDIX14)
 http://103.55.144.46/hls/wild.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Documentary", History Channel
-http://iptv.tvfix.org/hls/history.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Documentary", History Channel (jio)
+http://103.139.171.5:5001/jiotvplus/live.php?c=History_18_Hindi&q=400&e=junk.m3u8
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png"  group-title="Documentary",TLC (BDIX11)
 
@@ -437,8 +440,8 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png"  group-title="Documentary",
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png"  group-title="Documentary",TLC (BDIX14)
 http://103.55.144.46/hls/tlc.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/daMmAUf.png"  group-title="Documentary", BBC Earth
-http://125.209.88.166:45793/BRN/BBCEarthHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/daMmAUf.png"  group-title="Documentary", BBC Earth (jio)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_BBC_Earth_HD&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/daMmAUf.png"  group-title="Documentary",BBC Earth 
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/index.m3u8
