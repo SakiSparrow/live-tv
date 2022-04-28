@@ -20,15 +20,14 @@ http://103.135.133.3:8080/hls/stream3.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 5 (BDIX - Accessnet)
 http://stream.accessnetbd.com/hls/sky12.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 6 (Temp)
-http://208.86.19.13:81/905.stream/index.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 6 (BDIX - Temp)
+http://103.124.110.34:8082/tsp/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 7 (temporary)
-http://89.187.162.109/STARSPORTS1HINDIHD/index.m3u8
+http://208.86.19.13:81/710.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 8 (temporary)
 https://3xt0.short.gy/Tanishsharma/RABBITHOLEBD/AUTO2.m3u8
-http://208.86.19.13:81/710.stream/index.m3u8
 http://stariptv.org:8080/live/nour2020/123456/148521.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live LaLoga (BDIX2)
