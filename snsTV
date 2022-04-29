@@ -27,6 +27,7 @@ http://103.124.110.34:8082/tsp/index.m3u8
 http://acdn.bdixsports.live:1935/live/event.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 8 (temporary)
+http://89.187.162.109/STARSPORTS1HINDIHD/index.m3u8
 http://208.86.19.13:81/710.stream/index.m3u8
 http://stariptv.org:8080/live/nour2020/123456/148521.m3u8
 
@@ -34,13 +35,13 @@ http://stariptv.org:8080/live/nour2020/123456/148521.m3u8
 http://tv2.ebox.live:8080/live/channel9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 2
-https://sami-rian.ml/Join-us-on-telegram_@AllLiveSportsLinks/02.m3u8
+http://144.217.98.14/CBS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 3
 http://loga.ultratotal.ml/xls/ligota/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 4
-https://sami-rian.ml/Join-us-on-telegram_@AllLiveSportsLinks/01.m3u8
+http://144.217.98.14/ACTION/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 5
 https://sami-rian.ml/Join-us-on-telegram_@AllLiveSportsLinks/03.m3u8
@@ -185,11 +186,12 @@ http://43.230.123.21:8080/live/deshtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla",Duronto TV (BDIX)
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",Ekattor TV
-http://stariptv.org:8080/nour2020/123456/99393
+EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",Ekattor TV
+
 
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",Ekattor TV (BDIX7)
 http://12.1.1.1:8082/Ekattor-tv/index.m3u8
+http://stariptv.org:8080/nour2020/123456/99393
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/etv.jpg" group-title="Bangla",Ekushey TV (BDIX10)
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
