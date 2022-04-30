@@ -14,21 +14,20 @@ http://172.16.50.250:8081/main/mystream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 3 (BDIX7)
 http://12.1.1.1:8081/live/Star-Sports1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 4 (BDIX - SKNet)
-http://103.135.133.3:8080/hls/stream3.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 4 (BDIX - Temp)
+http://103.124.110.34:8082/SKY-SPORTS-CRICKET/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 5 (BDIX - Accessnet)
-http://stream.accessnetbd.com/hls/sky12.m3u8
+http://stream.accessnetbd.com/hls/access-tsports.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 6 (BDIX - Temp)
 http://103.124.110.34:8082/tsp/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 7 (temporary)
-http://acdn.bdixsports.live:1935/live/event.stream/index.m3u8
+http://103.124.110.34:8082/WILLOW-CRICKET-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 8 (temporary)
-http://89.187.162.109/STARSPORTS1HINDIHD/index.m3u8
-http://208.86.19.13:81/710.stream/index.m3u8
+http://103.124.110.34:8082/SUPERSPORT-CRICKET/index.m3u8
 http://stariptv.org:8080/live/nour2020/123456/148521.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live LaLoga (BDIX2)
