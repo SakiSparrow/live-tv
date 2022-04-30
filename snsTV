@@ -18,7 +18,7 @@ http://12.1.1.1:8081/live/Star-Sports1/chunks.m3u8
 http://103.124.110.34:8082/SKY-SPORTS-CRICKET/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 5 (BDIX - Accessnet)
-http://stream.accessnetbd.com/hls/access-tsports.m3u8
+http://stream.accessnetbd.com/hls/sky12.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 6 (BDIX - Temp)
 http://103.124.110.34:8082/tsp/index.m3u8
