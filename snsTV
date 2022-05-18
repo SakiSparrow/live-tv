@@ -27,7 +27,10 @@ http://bdiptv.net:8082/tsp/index.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 7 (BDIX16)
 http://bdiptv.net:8082/WILLOW-CRICKET-HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 8 (temporary)
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 8 (BDIX16)
+http://103.136.200.246:8082/Gazi-Tv/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 9 (temporary)
 http://bdiptv.net:8082/SUPERSPORT-CRICKET/index.m3u8
 http://stariptv.org:8080/live/nour2020/123456/148521.m3u8
 
@@ -294,6 +297,9 @@ http://103.55.144.46/hls/somoy.m3u8
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX2)
 http://tv2.ebox.live:8080/live/nk-tsports.m3u8
+
+#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX7)
+http://12.1.1.1:8082/T-Sports/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T Sports HD (BDIX8)
 http://172.16.50.250:8081/main/mystream/chunks.m3u8
