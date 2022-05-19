@@ -44,13 +44,13 @@ http://144.217.98.14/CBS/index.m3u8
 http://loga.ultratotal.ml/xls/ligota/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 4
-http://144.217.98.14/ACTION/index.m3u8
+http://185.145.43.244:8000/play/a004/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 5
-https://sami-rian.ml/Join-us-on-telegram_@AllLiveSportsLinks/03.m3u8
+http://185.145.43.244:8000/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 6
-http://178.218.196.218:8000/play/a004/index.m3u8
+http://185.145.43.244:8000/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 7
 http://194.67.196.19/hls/103.m3u8
@@ -145,7 +145,8 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yc3jpzfk" group-title="Bangla",Channel 9 (BDIX0)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 
-EXTINF:-1 tvg-logo="https://tinyurl.com/yc3jpzfk" group-title="Bangla",Channel 9 (BDIX17)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yc3jpzfk" group-title="Bangla",Channel 9 (BDIX16)
+http://bdiptv.net:8082/Channel-9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yc3jpzfk" group-title="Bangla",Channel 9 (BDIX2)
 http://43.230.123.21:8080/live/ch9.m3u8
@@ -189,8 +190,8 @@ http://43.230.123.21:8080/live/deshtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla",Duronto TV (BDIX16)
 http://bdiptv.net:8082/DURONTO-TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",Ekattor TV (BDIX - NG)
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/11.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",Ekattor TV (BDIX7_2)
+http://103.136.200.246:8082/Ekattor-tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",Ekattor TV (BDIX7)
 http://12.1.1.1:8082/Ekattor-tv/index.m3u8
@@ -244,6 +245,10 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV (BDIX7)
 http://stream.amrbd.com:8082/Nagorik-TV/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV (BDIX16)
+http://bdiptv.net:8082/Nagorik-TV/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV UK
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 
@@ -285,6 +290,9 @@ https://bdcast-live2.b-cdn.net/jago/0/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAg
 
 #EXTINF:-1 tvg-logo="https://www.akashdth.com/assets/uploads/channels_images/satv.png" group-title="Bangla",SA TV (BDIX7)
 http://stream.amrbd.com:8082/SATV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.akashdth.com/assets/uploads/channels_images/satv.png" group-title="Bangla",SA TV (BDIX16)
+http://bdiptv.net:8082/SATV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg" group-title="Bangla",Shomoy TV (BDIX0)
 https://somoy.appv.jagobd.com:444/somoy/somoyt000011226615544544.stream/playlist.m3u8
@@ -415,17 +423,14 @@ https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/madnitvbangla/ma
 #EXTINF:1 tvg-logo="https://i.imgur.com/sdRiPGf.png" group-title="Documentary",Animal Planet (BDIX2)
 http://tv2.ebox.live:8080/live/animale-planet.m3u8
 
-EXTINF:1 tvg-logo="https://i.imgur.com/sdRiPGf.png" group-title="Documentary",Animal Planet Hindi (pk)
-
-
-EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet
- 
+#EXTINF:1 tvg-logo="https://i.imgur.com/sdRiPGf.png" group-title="Documentary",Animal Planet Hindi (BDIX16)
+http://bdiptv.net:8082/ANIMEL-PLANET/index.m3u8
 
 #EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet Hindi  (BDIX14)
 http://103.55.144.46/hls/animalplanent.m3u8
 
-EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery (pk)
-http://103.153.39.36:8000/play/a00y
+#EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery (BDIX16)
+http://bdiptv.net:8082/DISCOVERY/index.m3u8
 
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery HD  (BDIX2)
 http://tv2.ebox.live:8080/live/discovery.m3u8
@@ -433,8 +438,11 @@ http://tv2.ebox.live:8080/live/discovery.m3u8
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery HD (BDIX14)
 http://103.55.144.46/hls/discovery.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-science-logo-804ACEFF86-seeklogo.com.jpg" group-title="Documentary",Discovery Science English (BDIX14)
+#EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/discoveryscience.jpg" group-title="Documentary",Discovery Science English (BDIX14)
 http://103.55.144.46/hls/dis-science.m3u8
+
+#EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/discoveryscience.jpg" group-title="Documentary",Discovery Science English (BDIX16)
+http://bdiptv.net:8082/DISCOVERY-SCIENCE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" group-title="Documentary", NASA TV  (akamai)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
@@ -442,7 +450,8 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary", National Geographic HD
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
-#EXTINF:1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary", National Geographic RU
+#EXTINF:1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary", National Geographic (BDIX16)
+http://bdiptv.net:8082/NAT-Geo/index.m3u8
 http://iptv.prosto.tv:7000/ch83/video.m3u8
 
 #EXTINF:1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary", National Geographic (BDIX2)
@@ -451,8 +460,8 @@ http://tv2.ebox.live:8080/live/natg.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary", National Geographic HD (BDIX14)
 http://103.55.144.46/hls/ngohd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Documentary", National Geographic Wild HD
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Documentary", National Geographic Wild HD (BDIX16)
+http://bdiptv.net:8082/NAT-Geo-WILD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Documentary", National Geographic Wild HD (BDIX14)
 http://103.55.144.46/hls/wild.m3u8
@@ -460,17 +469,17 @@ http://103.55.144.46/hls/wild.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Documentary", History Channel (jio)
 http://103.139.171.5:5001/jiotvplus/live.php?c=History_18_Hindi&q=400&e=junk.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png"  group-title="Documentary",TLC (BDIX11)
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png"  group-title="Documentary",TLC (BDIX16)
+http://bdiptv.net:8082/TLC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png"  group-title="Documentary",TLC (BDIX14)
 http://103.55.144.46/hls/tlc.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/daMmAUf.png"  group-title="Documentary", BBC Earth (jio)
-http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_BBC_Earth_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/bbcearthhd.jpg"  group-title="Documentary", Sony BBC Earth (BDIX16)
+http://bdiptv.net:8082/BBC-EARTH/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/daMmAUf.png"  group-title="Documentary",BBC Earth 
-http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/index.m3u8
+#EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/bbcearthhd.jpg"  group-title="Documentary", Sony BBC Earth  (BDIX9)
+http://103.167.190.250/hls/bbcearth.m3u8
 
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/bbcearth.jpg"  group-title="Documentary",Sony BBC Earth (BDIX14)
 http://103.55.144.46/hls/bbcearth.m3u8
