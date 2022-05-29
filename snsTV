@@ -6,8 +6,7 @@
 http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 1 (BDIX)
-http://103.205.132.164:8800/hls/stream3.m3u8
-http://12.1.1.1:8082/Local-Sports/index.m3u8
+http://103.135.133.2:8800/hls/stream3.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 2 (BDIX8)
 http://172.16.50.250:8081/live/mystream1/chunks.m3u8
@@ -90,9 +89,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/atnbangla.jpg" group-title="Bangla",ATN Bangla (BDIX0)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/atnbangla.jpg" group-title="Bangla",ATN Bangla (BDIX7)
-http://12.1.1.1:8082/ATN-Bangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/atnbangla.jpg" group-title="Bangla",ATN Bangla (BDIX16)
 http://15.1.1.10:8082/ATN-Bangla/index.m3u8
@@ -192,10 +188,8 @@ http://bdiptv.net:8082/DURONTO-TV/index.m3u8
 
 EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",Ekattor TV (BDIX7_2)
 
-
-#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",Ekattor TV (BDIX7)
-http://12.1.1.1:8082/Ekattor-tv/index.m3u8
-http://stariptv.org:8080/nour2020/123456/99393
+#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",Ekattor TV 
+http://208.86.19.13:81/604.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/ekattortv.jpg" group-title="Bangla",Ekattor TV (BDIX16)
 http://bdiptv.net:8082/EKTTOR-TV/index.m3u8
@@ -245,7 +239,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/mohonatv.jpg" group-title="Bangla",MOHONA TV   (BDIX0)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV (BDIX7)
+EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV (BDIX7)
 http://stream.amrbd.com:8082/Nagorik-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV (BDIX16)
