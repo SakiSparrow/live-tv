@@ -64,8 +64,8 @@ http://45.127.244.7:8080/hls/channel2.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/bddmnyb6" group-title="Bangla",Gazi TV  (BDIX3)
 http://172.27.27.3:8088/hls/01_Gazitv.m3u8
 
-EXTINF:-1 tvg-logo="https://tinyurl.com/bddmnyb6" group-title="Bangla",Gazi TV (BDIX7)
-http://12.1.1.1:8082/Gazi-Tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/bddmnyb6" group-title="Bangla",Gazi TV (BDIX11)
+http://10.252.253.254/hls/Gazi-TV.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/bddmnyb6" group-title="Bangla",Gazi TV (BDIX16)
 http://bdiptv.net:8082/gtv/index.m3u8
@@ -151,6 +151,9 @@ http://43.230.123.21:8080/live/ch9.m3u8
 #EXTINF:-1 tvg-logo="https://www.channelionline.com/wp-content/uploads/2019/07/channel-i-logo-1.png" group-title="Bangla",Channel I (BDIX0)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.channelionline.com/wp-content/uploads/2019/07/channel-i-logo-1.png" group-title="Bangla",Channel I (BDIX11)
+http://10.252.253.254/hls/channeli.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.channelionline.com/wp-content/uploads/2019/07/channel-i-logo-1.png" group-title="Bangla",Channel I (BDIX2)
 http://tv2.ebox.live:8080/live/chi.m3u8
 
@@ -212,6 +215,9 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/746jyf8b" group-title="Bangla",independent TV (BDIX3)
 http://172.27.27.3:8088/hls/02_IndependentTv.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/746jyf8b" group-title="Bangla",independent TV (BDIX11)
+http://10.252.253.254/hls/indepen.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/746jyf8b" group-title="Bangla",independent TV (BDIX14)
 http://103.55.144.46/hls/indepen.m3u8
@@ -300,11 +306,17 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg" group-title="Bangla",Shomoy TV (BDIX16)
 http://bdiptv.net:8082/Somoy-TV/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg" group-title="Bangla",Shomoy TV (BDIX111)
+http://10.252.253.254/hls/somoy.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg" group-title="Bangla",Shomoy TV (BDIX14)
 http://103.55.144.46/hls/somoy.m3u8
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX2)
 http://tv2.ebox.live:8080/live/nk-tsports.m3u8
+
+#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX11)
+http://10.252.253.254/hls/t-sports.m3u8
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX8_2)
 http://172.16.128.250:8081/live/gazitv/chunks.m3u8
@@ -340,6 +352,9 @@ https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha (BDIX1)
 http://45.127.244.7:8080/hls/channel12.m3u8 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha (BDIX12)
+http://10.252.253.254/hls/starjalsha.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha HD (BDIX3)
 http://172.27.27.3:8088/hls/10_StarJalsha.m3u8
 
@@ -357,6 +372,10 @@ http://tv2.ebox.live:8080/live/star-jalsha.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla (BDIX1)
 http://45.127.244.7:8080/hls/channel10.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla (BDIX1)
+http://10.252.253.254/hls/zeebanglahd.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla HD (BDIX3)
 http://172.27.27.3:8088/hls/12_ZeeBangla.m3u8
