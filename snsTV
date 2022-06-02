@@ -69,9 +69,6 @@ http://10.252.253.254/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/bddmnyb6" group-title="Bangla",Gazi TV (BDIX16)
 http://bdiptv.net:8082/gtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/bddmnyb6" group-title="Bangla",Gazi TV  (BDIX9)
-http://103.60.172.106:8080/GaziTV/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/bddmnyb6" group-title="Bangla",Gazi TV HD (BDIX14)
 http://103.55.144.46/hls/Gazi-TV.m3u8
 
