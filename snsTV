@@ -17,8 +17,8 @@ http://12.1.1.1:8081/live/Star-Sports1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 4 (BDIX - Accessnet)
 http://stream.accessnetbd.com/hls/sky4.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 5 (BDIX - Accessnet)
-http://stream.accessnetbd.com/hls/sky11.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 5 (BDIX16)
+http://bdiptv.net:8082/SKY-SPORTS-CRICKET/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 6 (BDIX - Accessnet)
 http://stream.accessnetbd.com/hls/sky7.m3u8
@@ -29,9 +29,8 @@ http://bdiptv.net:8082/WILLOW-CRICKET-HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 8 (BDIX - Accessnet)
 http://stream.accessnetbd.com/hls/sky3.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 9 (temporary)
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 9 (BDIX16)
 http://bdiptv.net:8082/SUPERSPORT-CRICKET/index.m3u8
-http://stariptv.org:8080/live/nour2020/123456/148521.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live LaLoga (BDIX2)
 http://tv2.ebox.live:8080/live/channel9.m3u8
@@ -43,7 +42,7 @@ http://144.217.98.14/CBS/index.m3u8
 http://loga.ultratotal.ml/xls/ligota/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 4
-http://185.145.43.244:8000/play/a004/index.m3u8
+http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 5
 http://185.145.43.244:8000/play/a009/index.m3u8
@@ -52,10 +51,10 @@ http://185.145.43.244:8000/play/a009/index.m3u8
 http://185.145.43.244:8000/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 7
-http://194.67.196.19/hls/103.m3u8
+http://217.74.16.155:8082/local/ar-s/B-S-pre-2-stop/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 8
-http://194.67.196.19/hls/104.m3u8
+http://217.74.16.155:8082/local/ar-s/B-S-pre-3-stop/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/bddmnyb6" group-title="Bangla",Gazi TV  (BDIX1)
 http://45.127.244.7:8080/hls/channel2.m3u8
@@ -63,14 +62,15 @@ http://45.127.244.7:8080/hls/channel2.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/bddmnyb6" group-title="Bangla",Gazi TV  (BDIX3)
 http://172.27.27.3:8088/hls/01_Gazitv.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/bddmnyb6" group-title="Bangla",Gazi TV (BDIX11)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/bddmnyb6" group-title="Bangla",Gazi TV HD (BDIX11)
 http://10.252.253.254/hls/Gazi-TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/bddmnyb6" group-title="Bangla",Gazi TV HD (BDIX14)
+http://103.55.144.46/hls/Gazi-TV.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/bddmnyb6" group-title="Bangla",Gazi TV (BDIX16)
 http://bdiptv.net:8082/gtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/bddmnyb6" group-title="Bangla",Gazi TV HD (BDIX14)
-http://103.55.144.46/hls/Gazi-TV.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/bddmnyb6" group-title="Bangla",Gazi TV (BDIX13)
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
@@ -552,7 +552,7 @@ http://103.55.144.46/hls/ptv.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/asp.jpg"  group-title="Sports",A Sports HD (pk)
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/asp.jpg"  group-title="Sports",A Sports HD (BDIX11)
+#EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/asp.jpg"  group-title="Sports",A Sports HD (BDIX16)
 http://bdiptv.net:8082/ASPORTS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cricketlivezone.com/wp-content/uploads/2020/01/GEO-SUPER-Live-Streaming.jpg"  group-title="Sports", Geo Super ( PK )
