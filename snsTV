@@ -17,8 +17,8 @@ http://12.1.1.1:8081/live/Star-Sports1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 4 (BDIX - Accessnet)
 http://stream.accessnetbd.com/hls/sky4.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 5 (BDIX16)
-http://bdiptv.net:8082/SKY-SPORTS-CRICKET/index.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 5 (BDIX1)
+http://45.127.244.7:8080/hls/channel9.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 6 (BDIX - Accessnet)
 http://stream.accessnetbd.com/hls/sky7.m3u8
@@ -35,8 +35,8 @@ http://bdiptv.net:8082/SUPERSPORT-CRICKET/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live LaLoga (BDIX2)
 http://tv2.ebox.live:8080/live/channel9.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 2
-http://144.217.98.14/CBS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 2 (BDIX16)
+http://bdiptv.net:8082/tv13/tracks-5,2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 3
 http://loga.ultratotal.ml/xls/ligota/index.m3u8
@@ -161,6 +161,9 @@ http://tv2.ebox.live:8080/live/ch24youtube.m3u8
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/dbc.jpg" group-title="Bangla",DBC News HD (BDIX0)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/dbc.jpg" group-title="Bangla",DBC News (BDIX1)
+http://45.127.244.7:8080/hls/channel14.m3u8
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/dbc.jpg" group-title="Bangla",DBC News HD (BDIX2)
 http://tv2.ebox.live:8080/live/dbc.m3u8
@@ -407,8 +410,8 @@ http://10.252.253.254/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/colorsbangla.png" group-title="Bangla",Colors Bangla (str)
 http://str24.l9574.com/616.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/colorsbangla.png" group-title="Bangla",Colors Bangla (akamai)
-https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/colorsbangla.png" group-title="Bangla",Colors Bangla (BDIX1)
+http://45.127.244.7:8080/hls/channel11.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/jalshamovies.png" group-title="Bangla", Star Jalsha Movies (BDIX1)
 http://45.127.244.7:8080/hls/channel13.m3u8
@@ -585,6 +588,9 @@ http://10.252.253.254/hls/sonyten2.m3u8
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/ten2hd.jpg"  group-title="Sports",Sony Ten 2 HD (BDIX3)
 http://172.27.27.3:8088/hls/04_Sonyten2.m3u8
 
+#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/ten2hd.jpg"  group-title="Sports",Sony Ten 2 HD (BDIX16)
+http://bdiptv.net:8082/SONY-TEN-2-HD/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/ten2hd.jpg"  group-title="Sports",Sony Ten 2  (BDIX2)
 http://tv2.ebox.live:8080/live/sonyten-2.m3u8
 
@@ -596,6 +602,9 @@ http://tv2.ebox.live:8080/live/sonyten-3.m3u8
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/ten3hd.jpg"  group-title="Sports",Sony Ten 3 HD (BDIX11)
 http://10.252.253.254/hls/sonyten3.m3u8
+
+#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/ten3hd.jpg"  group-title="Sports",Sony Ten 3 HD (BDIX16)
+http://bdiptv.net:8082/SONY-TEN-3-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/ten3hd.jpg"  group-title="Sports",Sony Ten 3 HD (BDIX14)
 http://103.55.144.46/hls/sonyten3.m3u8
@@ -631,7 +640,7 @@ http://10.252.253.254/hls/stersports1hd.m3u8
 http://103.55.144.46/hls/stersports1hd.m3u8
 
 #EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/star-sports-1.jpg"  group-title="Sports",Star Sports 1 (BDIX1)
-http://45.127.244.7:8080/hls/channel9.m3u8
+http://45.127.244.7:8080/hls/channel4.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/be/32/a6/be32a66c64716626d01188fa1dbc2ef2.jpg"  group-title="Sports",Star Sports 1 HD Hindi• (BDIX2)
 http://tv2.ebox.live:8080/live/starsports-1-hind.m3u8
@@ -641,6 +650,9 @@ http://103.55.144.46/hls/starsports2.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/starsports2.jpg" group-title="Sports", Star Sports 2 HD (BDIX11)
 http://10.252.253.254/hls/starsports2.m3u8
+
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/starsports2.jpg" group-title="Sports", Star Sports 2 HD (BDIX16)
+http://bdiptv.net:8082/STAR-SPORTS-2HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/starsports2.jpg" group-title="Sports", Star Sports 2 HD (BDIX2)
 http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
@@ -687,11 +699,11 @@ http://bdiptv.net:8082/SKY-SPORTS-CRICKET/index.m3u8
 #EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-mix-vector-logo-small.png" group-title="Sports" ,Sky Sports Mix (BDIX2)
 http://tv2.ebox.live:8080/live/Sky-Sports-Mix.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FUW8RnxZJfk/V9_NpoKmy0I/AAAAAAAAB-Y/ShI0NDzoq80-Sx9woVIuRXYNDNupdQ-yQCLcB/s320/Abu-Dhabi-Sports-1_o.jpg" group-title="Sports",Ad Sports 1
+#EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/adsports1.jpg" group-title="Sports",Ad Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FUW8RnxZJfk/V9_NpoKmy0I/AAAAAAAAB-Y/ShI0NDzoq80-Sx9woVIuRXYNDNupdQ-yQCLcB/s320/Abu-Dhabi-Sports-1_o.jpg" group-title="Sports",Ad Sports 1 (BDIX16)
-
+#EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/adsports1.jpg" group-title="Sports",Ad Sports 1 (BDIX16)
+http://bdiptv.net:8082/Adsports1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-abu-dhabi-sports-2-5918.jpg" group-title="Sports",Ad Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
@@ -705,7 +717,7 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg"  group-title="Sports",Willow HD (BDIX2)
 http://tv2.ebox.live:8080/live/willow-cric.m3u8
 
-#EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/willowhd.jpg"  group-title="Sports",Willow HD (BDIX11)
+#EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/willowhd.jpg"  group-title="Sports",Willow HD (BDIX16)
 http://bdiptv.net:8082/WILLOW-CRICKET-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.foxsports.com.au/digital/images/livestreams/fsnlivestream/FSN_Live_Stream_Start.jpg" group-title="Sports",FOX Sports News HD (akamai)
@@ -726,11 +738,8 @@ http://bdiptv.net:8082/BEIN-SPORTS-1-HD/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" ,Bein Sports Premium 2 (BDIX2)
 http://tv2.ebox.live:8080/live/bein-sports-2.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" ,Bein Sports Premium 2 (BDIX11)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" ,Bein Sports Premium 2 (BDIX16)
 http://bdiptv.net:8082/BEIN-SPORTS-2-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S4kh3oo.png" group-title="Sports" , Free Sports
-https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8 
