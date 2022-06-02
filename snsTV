@@ -168,11 +168,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/dbc.jpg" group-title="Bangla",DBC News HD (BDIX2)
 http://tv2.ebox.live:8080/live/dbc.m3u8
 
-EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/deeptotv.jpg" group-title="Bangla",Deepto TV (BDIX1)
-http://45.127.244.7:8080/hls/channel15.m3u8
-
-EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/deeptotv.jpg" group-title="Bangla",Deepto TV (BDIX7)
-
+#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/deeptotv.jpg" group-title="Bangla",Deepto TV 
+http://208.86.19.13:81/609.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/deeptotv.jpg" group-title="Bangla",Deepto TV (BDIX0)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
@@ -189,13 +186,14 @@ http://43.230.123.21:8080/live/deshtv.m3u8
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/duronto.jpg" group-title="Bangla",Duronto TV (BDIX16)
 http://bdiptv.net:8082/DURONTO-TV/index.m3u8
 
-EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",Ekattor TV (BDIX7_2)
+#EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/ekattortv.jpg" group-title="Bangla",Ekattor TV (BDIX16)
+http://15.1.1.10:8082/EKTTOR-TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",Ekattor TV (BDIX_2)
+https://103.118.76.146/MZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ekattortv.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",Ekattor TV 
 http://208.86.19.13:81/604.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/ekattortv.jpg" group-title="Bangla",Ekattor TV (BDIX16)
-http://bdiptv.net:8082/EKTTOR-TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/etv.jpg" group-title="Bangla",Ekushey TV (BDIX10)
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -248,8 +246,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/mohonatv.jpg" group-title="Bangla",MOHONA TV   (BDIX0)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV (BDIX9)
-http://103.60.172.106:8080/NagorikTV/tracks-v1a1/mono.m3u8
+EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV (BDIX)
 
 #EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV (BDIX16)
 http://bdiptv.net:8082/Nagorik-TV/index.m3u8
@@ -260,8 +257,8 @@ https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV UK (JagoBD)
 https://bdcast-live2.b-cdn.net/jago/1/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (BDIX7)
-http://103.60.172.106:8080/NTV/tracks-v1a1/mono.m3u8
+EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (BDIX7)
+
 
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (BDIX16)
 http://bdiptv.net:8082/NTV/index.m3u8
@@ -342,8 +339,7 @@ http://15.1.1.10:8082/tsp/index.m3u8
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX14)
 http://103.55.144.46/hls/t-sports.m3u8
 
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/tsports.jpg" group-title="Bangla",T sports (BDIX5)
-http://103.102.27.172:6464/Channel-2/index.m3u8
+EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/tsports.jpg" group-title="Bangla",T sports (BDIX5)
 
 EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX13)
 http://103.84.253.5/live/0/index.m3u8
@@ -359,9 +355,6 @@ http://10.252.253.254/hls/starjalsha.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha HD (BDIX3)
 http://172.27.27.3:8088/hls/10_StarJalsha.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha HD (BDIX7)
-http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha HD (BDIX14)
 http://103.55.144.46/hls/starjalsha.m3u8
@@ -383,9 +376,6 @@ http://172.27.27.3:8088/hls/12_ZeeBangla.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla HD (BDIX2)
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
-
-#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla HD (BDIX7)
-http://stream.amrbd.com:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla HD (BDIX14)
 http://103.55.144.46/hls/zeebanglahd.m3u8
@@ -762,9 +752,6 @@ http://stream.amrbd.com:8082/Dw/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LD1Lj0v.png" group-title="News",DW (akamai)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8 
-
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/voanews.jpg" group-title="News",VoA News (BDIX7)
-http://stream.amrbd.com:8082/Voa_news/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K3JYSKA.png" group-title="News",RT News
 https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
