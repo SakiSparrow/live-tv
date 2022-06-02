@@ -186,7 +186,7 @@ http://bdiptv.net:8082/DURONTO-TV/index.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/ekattortv.jpg" group-title="Bangla",Ekattor TV (BDIX16)
 http://15.1.1.10:8082/EKTTOR-TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",Ekattor TV (BDIX_2)
+EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",Ekattor TV (BDIX_2)
 https://103.118.76.146/MZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ekattortv.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",Ekattor TV 
