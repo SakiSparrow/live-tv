@@ -32,6 +32,9 @@ http://stream.accessnetbd.com/hls/sky3.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 9 (BDIX16)
 http://bdiptv.net:8082/SUPERSPORT-CRICKET/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 9 (BDIX - SKNet)
+http://103.205.132.165:8800/hls/stream2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live LaLoga (BDIX2)
 http://tv2.ebox.live:8080/live/channel9.m3u8
 
@@ -71,7 +74,6 @@ http://103.55.144.46/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/bddmnyb6" group-title="Bangla",Gazi TV (BDIX16)
 http://bdiptv.net:8082/gtv/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/bddmnyb6" group-title="Bangla",Gazi TV (BDIX13)
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 
@@ -79,7 +81,7 @@ https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/asiantv.jpg" group-title="Bangla",Asian TV (JagoBD)
-https://bdcast-live2.b-cdn.net/jago/1/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
+https://live2.bd-cast.net/jago/0/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/anandotv.jpg" group-title="Bangla",Ananda TV (BDIX0)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
