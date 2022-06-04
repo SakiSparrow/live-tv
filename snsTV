@@ -15,7 +15,7 @@ http://172.16.128.250:8081/live/Tsports2/chunks.m3u8
 http://12.1.1.1:8081/live/Star-Sports1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 4 (BDIX - Accessnet)
-http://stream.accessnetbd.com/hls/sky-live.m3u8
+http://dds.oncast.me:1934/dlive/sp2.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 5 (BDIX1)
 http://45.127.244.7:8080/hls/channel9.m3u8
