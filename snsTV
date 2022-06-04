@@ -42,7 +42,7 @@ http://tv2.ebox.live:8080/live/channel9.m3u8
 http://bdiptv.net:8082/tv13/tracks-5,2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 3 (BDIX - Oncast)
-http://dds.oncast.me:1934/dlive/sp5.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
+http://dds.oncast.me:1934/dlive/sp9.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 4
 http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/index.m3u8
