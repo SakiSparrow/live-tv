@@ -272,7 +272,7 @@ http://103.159.4.38:8080/BD-BANGLA-18/index.m3u8
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg" group-title="Bangla",News24 (BDIX12)
-http://103.70.140.27:8080/hls/news24.m3u8
+http://bdiptv.net:8082/NEWS-24/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg" group-title="Bangla",News24 (BDIX2)
 http://tv2.ebox.live:8080/live/ex-news24-20.m3u8
@@ -353,10 +353,10 @@ https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master.m3u8
 http://10.16.100.204:8082/hls/st@rj@lsha.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha HD (BDIX19)
-http://103.111.120.94:8089/30/index.m3u8
+http://103.109.56.116/live/skyfeed1003/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha HD (BDIX9)
-http://103.159.4.38:5868/IN-BANGLA-3/index.m3u8
+http://103.159.4.38:9191/CH24-INBD3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha HD (BDIX14)
 http://103.55.144.46/hls/starjalsha.m3u8
@@ -371,7 +371,10 @@ http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla HD (BDIX9)
-http://103.159.4.38:5868/IN-BANGLA-4/index.m3u8
+http://103.159.4.38:9191/CH23-INBD2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla HD (BDIX - FunTimeBD)
+http://103.109.56.116/live/skyfeed1004/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla HD (BDIX14)
 http://103.55.144.46/hls/zeebanglahd.m3u8
