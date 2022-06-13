@@ -109,7 +109,6 @@ http://stream.amrbd.com:8082/Atn-News/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/108.jpg" group-title="Bangla",ATN News (BDIX4)
 http://10.100.100.140:8081/dugdugi/atnnews/chunks.m3u8?|Referer=http://dugdugilive.com/
-http://tv2.ebox.live:8080/live/ex-atnae.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/banglavision.png" group-title="Bangla",Bangla Vision  (BDIX0)
 https://somoy.appv.jagobd.com:444/somoy/banglav000.stream/playlist.m3u8
@@ -197,11 +196,9 @@ http://43.230.123.21:8080/live/deeptotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png" group-title="Bangla",DESH TV (BDIX4)
 http://10.100.100.140:8081/dugdugi/desh/chunks.m3u8?|Referer=http://dugdugilive.com/
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png" group-title="Bangla",DESH TV 
 http://208.86.19.13:81/629.stream/index.m3u8
-http://43.230.123.21:8080/live/deshtv.m3u8
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/duronto.jpg" group-title="Bangla",Duronto TV (BDIX16)
 http://bdiptv.net:8082/DURONTO-TV/index.m3u8
