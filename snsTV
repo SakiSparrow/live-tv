@@ -200,14 +200,17 @@ http://43.230.123.21:8080/live/deshtv.m3u8
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/duronto.jpg" group-title="Bangla",Duronto TV (BDIX16)
 http://bdiptv.net:8082/DURONTO-TV/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/ekattortv.jpg" group-title="Bangla",Ekattor TV (BDIX11)
+http://10.252.253.254/hls/nexus.m3u8
+
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/ekattortv.jpg" group-title="Bangla",Ekattor TV (BDIX16)
 http://15.1.1.10:8082/EKTTOR-TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",Ekattor TV (BDIX7)
 http://12.1.1.1:8082/Ekattor-tv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",Ekattor TV 
-http://208.86.19.13:81/604.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",Ekattor TV (BDIX14)
+http://103.55.144.46/hls/nexus.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/etv.jpg" group-title="Bangla",Ekushey TV (BDIX10)
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
