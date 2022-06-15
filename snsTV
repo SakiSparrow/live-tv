@@ -98,6 +98,9 @@ https://somoy.appv.jagobd.com:444/somoy/anandatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/anandotv.jpg" group-title="Bangla",Ananda TV (BDIX16)
 http://bdiptv.net:8082/Anando-TV/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/anandotv.jpg" group-title="Bangla",Ananda TV (BDIX4)
+http://10.100.100.140:8081/dugdugi/duronto/chunks.m3u8?|Referer=http://dugdugilive.com/
+
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/atnbangla.jpg" group-title="Bangla",ATN Bangla (BDIX0)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 
@@ -137,8 +140,8 @@ http://tv2.ebox.live:8080/live/ex-boishakhi.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/GO3NV.png" group-title="Bangla",BTV Chattagram (BDIX6)
 http://103.106.2.152:13456/btv_ctg.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/GO3NV.png" group-title="Bangla",BTV Chattagram (BDIX0)
-http://iptvbd.jagobd.com:1931/live-orgin/btvnational-ctg.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9hN3PH.png" group-title="Bangla",BTV HD (BDIX - SK Net)
+http://103.205.132.165:8800/hls/stream3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q9hN3PH.png" group-title="Bangla",BTV (BDIX6)
 http://103.106.2.152:13456/btv.m3u8
@@ -210,8 +213,8 @@ http://208.86.19.13:81/629.stream/index.m3u8
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/duronto.jpg" group-title="Bangla",Duronto TV (BDIX16)
 http://bdiptv.net:8082/DURONTO-TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/duronto.jpg" group-title="Bangla",Duronto TV (BDIX4)
-http://10.100.100.140:8081/dugdugi/duronto/chunks.m3u8?|Referer=http://dugdugilive.com/
+EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/duronto.jpg" group-title="Bangla",Duronto TV (BDIX4)
+
 
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/ekattortv.jpg" group-title="Bangla",Ekattor TV (BDIX11)
 http://10.252.253.254/hls/nexus.m3u8
@@ -386,6 +389,9 @@ http://15.1.1.10:8082/tsp/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX14)
 http://103.55.144.46/hls/t-sports.m3u8
+
+#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX9)
+http://103.159.4.38:8080/CH2-SP2/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/tsports.jpg" group-title="Bangla",T sports (BDIX7)
 http://12.1.1.1:8082/T-Sports/index.m3u8
