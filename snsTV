@@ -5,20 +5,23 @@
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports (BDIX2)
 http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 1 (BDIX8)
-http://172.16.50.250:8081/live/mystream1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 0 (BDIPtv)
+https://t.bdiptv.stream:2096/Sp0rts/LiveSports/chunks.m3u8?|Referer=http://bdiptv.stream/
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 2 (BDIX8_2)
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 1 (BDIX4)
+http://10.100.100.140:8081/dugdugi/gazi/chunks.m3u8?|Referer=http://dugdugilive.com/
+
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 2 (BDIX8)
 http://172.16.128.250:8081/live/Tsports2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 3 (BDIX7)
-http://12.1.1.1:8081/live/Star-Sports1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 3 (BDIX8_2)
+http://172.16.50.250:8081/live/mystream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 4 (BDIX - Oncast)
 http://dds.oncast.me:1934/dlive/sp2.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 5 (BDIX4)
-http://10.100.100.140:8081/dugdugi/gazi/chunks.m3u8?|Referer=http://dugdugilive.com/
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 5 (BDIX7)
+http://12.1.1.1:8081/live/Star-Sports1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 6 (BDIX - Accessnet)
 http://stream.accessnetbd.com/hls/sky7.m3u8
