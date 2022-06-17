@@ -5,6 +5,9 @@
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports (BDIX2)
 http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports (BDIX - AccessNET)
+http://stream.accessnetbd.com/hls/bdlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://bdiptv.stream/uploads/tv_image/sm/live-sports-jzfedp4h8smi.png" group-title="Live Sports", Live Sports 1 (BDIX4)
 http://10.100.100.140:8081/dugdugi/gazi/chunks.m3u8?|Referer=http://dugdugilive.com/
 
