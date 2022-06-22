@@ -83,9 +83,6 @@ http://103.55.144.46/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/bddmnyb6" group-title="Bangla",Gazi TV (BDIX16)
 http://bdiptv.net:8082/gtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/bddmnyb6" group-title="Bangla",Gazi TV (BDIX - Oncast)
-http://dds.oncast.me:1934/dlive/gz.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/bddmnyb6" group-title="Bangla",Gazi TV (BDIX - Accessnet)
 http://stream.accessnetbd.com/hls/sky3.m3u8
 
@@ -93,7 +90,7 @@ http://stream.accessnetbd.com/hls/sky3.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/asiantv.jpg" group-title="Bangla",Asian TV (BDIX4)
-http://10.100.100.140:8081/dugdugi/asian/chunks.m3u8?|Referer=http://dugdugilive.com/
+https://bdcast-live2.b-cdn.net/jago/0/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/anandotv.jpg" group-title="Bangla",Ananda TV (BDIX0)
 https://somoy.appv.jagobd.com:444/somoy/anandatv.stream/playlist.m3u8
