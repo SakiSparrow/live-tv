@@ -117,7 +117,7 @@ EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/108.jpg" group-title="Bang
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/banglavision.png" group-title="Bangla",Bangla Vision  (BDIX0)
-https://somoy.appv.jagobd.com:444/somoy/banglav000.stream/playlist.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/banglavision.png" group-title="Bangla",Bangla Vision (BDIX4)
 http://10.100.100.140:8081/dugdugi/banglavision/chunks.m3u8?|Referer=http://dugdugilive.com/
@@ -129,7 +129,7 @@ http://tv2.ebox.live:8080/live/banae3.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/boishakhitv.jpg" group-title="Bangla",Boishakhi TV (BDIX0)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/boishakhitv.jpg" group-title="Bangla",Boishakhi TV (BDIX16)
 http://bdiptv.net:8082/Boishakhi/index.m3u8
@@ -150,7 +150,7 @@ http://103.205.132.165:8800/hls/stream4.m3u8
 http://103.106.2.152:13456/btv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/GO3OC.png" group-title="Bangla",BTV World  (BDIX0)
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/GO3OC.png" group-title="Bangla",BTV World (BDIX6)
 http://103.106.2.152:13456/btv_world.m3u8
@@ -193,7 +193,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/dbc.jpg" group-title="Bangla",DBC News (BDIX4)
 http://10.100.100.140:8081/dugdugi/dbc/chunks.m3u8?|Referer=http://dugdugilive.com/
-
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/dbc.jpg" group-title="Bangla",DBC News HD (BDIX16)
 http://bdiptv.net:8082/DBC-News/index.m3u8
@@ -262,7 +261,7 @@ http://10.100.100.140:8081/dugdugi/independent/chunks.m3u8?|Referer=http://dugdu
 http://10.252.253.254/hls/indepen.m3u8
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/jamunatv.jpg" group-title="Bangla",Jamuna TV (BDIX0)
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/jamunatv.jpg" group-title="Bangla",Jamuna TV (BDIX16)
 http://bdiptv.net:8082/Jamuna-TV/index.m3u8
@@ -322,7 +321,7 @@ http://bdiptv.net:8082/NTV/index.m3u8
 http://10.100.100.140:8081/dugdugi/ntv/chunks.m3u8?|Referer=http://dugdugilive.com/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg" group-title="Bangla",News24 (BDIX0)
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg" group-title="Bangla",News24 (BDIX16)
 http://bdiptv.net:8082/NEWS-24/index.m3u8
@@ -334,7 +333,8 @@ https://live2.bd-cast.net/jago/1/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoae
 http://tv2.ebox.live:8080/live/ex-news24-20.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2p85th67" group-title="Bangla",Nexus TV (BDIX0)
-https://somoy.appv.jagobd.com:444/somoy/nexustv.stream/playlist.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/nexustv.stream/playlist.m3u8
+https://tempskyview.jagobd.com:441/live-orgin/nexustv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2p85th67" group-title="Bangla",Nexus TV (JagoBD)
 https://bdcast-live2.b-cdn.net/jago/1/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/chunks.m3u8
