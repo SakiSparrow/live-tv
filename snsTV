@@ -17,8 +17,8 @@ http://172.16.50.250:8081/live/mystream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 3 (BDIX8_2)
 http://172.16.128.250:8081/live/Tsports2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 4 (BDIX - Oncast)
-http://dds.oncast.me:1934/dlive/sp2.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 4 (BDIX - Accessnet)
+http://stream.serverbd247.com/hls/tsportshd.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 5 (BDIX7)
 http://12.1.1.1:8081/live/Star-Sports1/chunks.m3u8
@@ -161,7 +161,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/GO3OC.png" group-title="Bangla",BTV World (BDIX6)
 http://103.106.2.152:13456/btv_world.m3u8
 
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/bijoytv.jpg" group-title="Bangla", Bijoy TV  (BDIX2)
+EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/bijoytv.jpg" group-title="Bangla", Bijoy TV  (BDIX2)
 http://43.230.123.21:8080/live/bijoy.m3u8
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/bijoytv.jpg" group-title="Bangla", Bijoy TV  (BDIX7)
@@ -239,6 +239,9 @@ http://103.55.144.46/hls/nexus.m3u8
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/etv.jpg" group-title="Bangla",Ekushey TV (BDIX10)
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
+#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/etv.jpg" group-title="Bangla",Ekushey TV (BDIX16)
+http://bdiptv.net:8082/Ekushey-tv/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/etv.jpg" group-title="Bangla",Ekushey TV  
 https://ekusheyserver.com/etvlivesn.m3u8
 
@@ -250,6 +253,9 @@ http://tv2.ebox.live:8080/live/ex-gan.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/746jyf8b" group-title="Bangla",independent TV (BDIX0)
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/746jyf8b" group-title="Bangla",independent TV (BDIX16)
+http://bdiptv.net:8082/INDEPENDENT-tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/746jyf8b" group-title="Bangla",independent TV (BDIX14)
 http://103.55.144.46/hls/indepen.m3u8
