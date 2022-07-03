@@ -48,16 +48,16 @@ http://tv2.ebox.live:8080/live/channel9.m3u8
 http://10.100.100.140:8081/dugdugi/gazi/chunks.m3u8?|Referer=http://dugdugilive.com/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 3 (BDIX - Oncast)
-http://dds.oncast.me:1934/dlive/sp9.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
+https://networkbest.ru.com/cdn/premium31/chunks.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 4 (BDIX4)
 http://10.100.100.140:8081/dugdugi/espn/chunks.m3u8?|Referer=http://dugdugilive.com/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 5 (BDIX - Oncast)
-http://dds.oncast.me:1934/dlive/sp9.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
+https://networkbest.ru.com/cdn/premium32/chunks.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 6 (BDIX - Oncast)
-http://dds.oncast.me:1934/dlive/sp8.stream/chunks.m3u8?|Referer=http://dds.oncast.me/ 
+https://networkbest.ru.com/cdn/premium65/chunks.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 7 (BDIX16)
 http://bdiptv.net:8082/tv13/tracks-5,2/index.m3u8
