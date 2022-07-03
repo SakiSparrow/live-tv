@@ -293,10 +293,10 @@ http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2m7cw437" group-title="Bangla",Maasranga HD (BDIX14)
 http://103.55.144.46/hls/masranga.m3u8
 
-#EXTINF:-1 tvg-logo="http://cdn.dugdugilive.com/tv/bd-mytv.php" group-title="Bangla",MY TV (BDIX0)
+#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/My%20Tv1656563070.png" group-title="Bangla",MY TV (BDIX0)
 http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://cdn.dugdugilive.com/tv/bd-mytv.php" group-title="Bangla",MY TV (BDIX16)
+#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/My%20Tv1656563070.png" group-title="Bangla",MY TV (BDIX16)
 http://bdiptv.net:8082/MYTV-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/mohonatv.png" group-title="Bangla",MOHONA TV   (BDIX0)
@@ -455,22 +455,22 @@ http://103.55.144.46/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla HD (BDIX7)
 http://stream.amrbd.com:8082/ZeeBanglaHD/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://10.252.253.254/img/Zee_Bangla_Cinema.jpg" group-title="Bangla",Zee Bangla Cinema (BDIX1)
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/Zee_Bangla_Cinema.jpg" group-title="Bangla",Zee Bangla Cinema (BDIX1)
 http://45.127.244.7:8080/hls/channel11.m3u8
 
-#EXTINF:-1 tvg-logo="http://10.252.253.254/img/Zee_Bangla_Cinema.jpg" group-title="Bangla",Zee Bangla Cinema (BDIX11)
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/Zee_Bangla_Cinema.jpg" group-title="Bangla",Zee Bangla Cinema (BDIX11)
 http://10.252.253.254/hls/zee-bangla-cinema.m3u8
 
-#EXTINF:-1 tvg-logo="http://10.252.253.254/img/Zee_Bangla_Cinema.jpg" group-title="Bangla",Zee Bangla Cinema (BDIX2)
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/Zee_Bangla_Cinema.jpg" group-title="Bangla",Zee Bangla Cinema (BDIX2)
 http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
 
-#EXTINF:-1 tvg-logo="http://10.252.253.254/img/Sony_Aath.png" group-title="Bangla",Sony Aath (BDIX14) 
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/Sony_Aath.png" group-title="Bangla",Sony Aath (BDIX14) 
 http://103.55.144.46/hls/Sony_Aath.m3u8
 
-#EXTINF:-1 tvg-logo="http://10.252.253.254/img/Sony_Aath.png" group-title="Bangla",Sony Aath (BDIX11) 
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/Sony_Aath.png" group-title="Bangla",Sony Aath (BDIX11) 
 http://10.252.253.254/hls/Sony_Aath.m3u8
 
-#EXTINF:-1 tvg-logo="http://10.252.253.254/img/Sony_Aath.png" group-title="Bangla",Sony Aath 
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/Sony_Aath.png" group-title="Bangla",Sony Aath 
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/colorsbangla.png" group-title="Bangla",Colors Bangla (BDIX2)
