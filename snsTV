@@ -5,8 +5,8 @@
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports (BDIX2)
 http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 
-https://networkbest.ru.com/cdn/premium33/chunks.m3u8?|Referer=https://player.licenses4.me/
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports (BDIX)
+http://103.137.75.73:1932/tvapp/nk-tsports/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 1 (BDIX4)
 http://10.100.100.140:8081/dugdugi/gazi/chunks.m3u8?|Referer=http://dugdugilive.com/
@@ -47,8 +47,8 @@ https://networkbest.ru.com/cdn/premium368/chunks.m3u8?|Referer=https://player.li
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live LaLoga (BDIX2)
 http://tv2.ebox.live:8080/live/channel9.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 2 (BDIX4)
-http://10.100.100.140:8081/dugdugi/gazi/chunks.m3u8?|Referer=http://dugdugilive.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 2 
+https://networkbest.ru.com/cdn/premium33/chunks.m3u8?|Referer=https://player.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 3 
 https://networkbest.ru.com/cdn/premium31/chunks.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
@@ -132,7 +132,7 @@ EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/banglavision.png" group-ti
 http://tv2.ebox.live:8080/live/banae3.m3u8
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/Bangla%20Tv1656562630.png" group-title="Bangla",Bangla TV (BDIX0)
-https://tempamb.jagobd.com:441/live-orgin/banglatvhd.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/Bangla%20Tv1656562630.png" group-title="Bangla",Bangla TV (BDIX4)
 http://10.100.100.140:8081/dugdugi/banglatv/chunks.m3u8?|Referer=http://dugdugilive.com/
@@ -342,13 +342,13 @@ https://live2.bd-cast.net/jago/1/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoae
 http://10.100.100.140:8081/dugdugi/news24/chunks.m3u8?|Referer=http://dugdugilive.com/
 
 #EXTINF:-1 tvg-logo="https://pcdn1.jagobd.com/images/xs-f0ocf71652458683857.jpg" group-title="Bangla",Nexus TV (BDIX0)
-https://tempamb.jagobd.com:441/live-orgin/nexustv.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/nexustv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://pcdn1.jagobd.com/images/xs-f0ocf71652458683857.jpg" group-title="Bangla",Nexus TV (JagoBD)
 https://bdcast-live2.b-cdn.net/jago/1/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/su9v958x" group-title="Bangla",RTV BD (BDIX0)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/su9v958x" group-title="Bangla",RTV BD (BDIX4)
 http://10.100.100.140:8081/dugdugi/rtv/chunks.m3u8?|Referer=http://dugdugilive.com/
