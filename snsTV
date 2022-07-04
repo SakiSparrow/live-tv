@@ -6,6 +6,9 @@
 http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports (BDIX)
+https://tv.kotha.im/TSports_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports (BDIX)
 http://103.137.75.73:1932/tvapp/nk-tsports/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 1 (BDIX4)
