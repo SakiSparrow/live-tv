@@ -11,9 +11,6 @@ https://tv.kotha.im/TSports_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports (BDIX - Novus)
 http://103.137.75.73:1932/tvapp/nk-tsports/chunks.m3u8
 
-EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 0 (BDIX - City)
-http://113.212.111.246:8080/hls/col2.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 1 (BDIX4)
 http://10.100.100.140:8081/dugdugi/gazi/chunks.m3u8?|Referer=http://dugdugilive.com/
 
@@ -92,8 +89,8 @@ http://103.55.144.46/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/gtv.png" group-title="Bangla",Gazi TV (BDIX16)
 http://bdiptv.net:8082/gtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/gtv.png" group-title="Bangla",Gazi TV (BDIX - Oncast)
-http://dds.oncast.me:1934/dlive/gz.stream/chunks.m3u8%7CReferer=http://dds.oncast.me/
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/gtv.png" group-title="Bangla",Gazi TV (BDIX17)
+https://tv.kotha.im/GTV_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/gtv.png" group-title="Bangla",Gazi TV (BDIX - Accessnet)
 http://stream.serverbd247.com/hls/sky3.m3u8
@@ -320,6 +317,9 @@ http://10.100.100.140:8081/dugdugi/mohona/chunks.m3u8?|Referer=http://dugdugiliv
 #EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV (BDIX7)
 http://stream.amrbd.com:8082/Nagorik-TV/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV (BDIX17)
+https://tv.kotha.im/Nagorik_TV_HD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV (BDIX16)
 http://bdiptv.net:8082/Nagorik-TV/index.m3u8
 
@@ -329,8 +329,8 @@ http://10.100.100.140:8081/dugdugi/nagorik/chunks.m3u8?|Referer=http://dugdugili
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV UK
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV UK (JagoBD)
-https://bdcast-live2.b-cdn.net/jago/1/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (BDIX17)
+https://tv.kotha.im/NTV_SD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (BDIX7)
 http://stream.amrbd.com:8082/Ntv/tracks-v1a1/mono.m3u8
