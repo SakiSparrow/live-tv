@@ -8,8 +8,11 @@ http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports (BDIX17)
 https://tv.kotha.im/TSports_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports (BDIX)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports (BDIX - Novus)
 http://103.137.75.73:1932/tvapp/nk-tsports/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 0 (BDIX - City)
+http://113.212.111.246:8080/hls/col2.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 1 (BDIX4)
 http://10.100.100.140:8081/dugdugi/gazi/chunks.m3u8?|Referer=http://dugdugilive.com/
@@ -29,26 +32,26 @@ http://12.1.1.1:8081/live/Star-Sports1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 6 (BDIX - Accessnet)
 http://stream.serverbd247.com/hls/sky7.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 7 (BDIX - Accessnet)
-http://stream.serverbd247.com/hls/sky12.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 8 (BDIX13)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 7 (BDIX13)
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 9 (BDIX16)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 8 (BDIX16)
 http://bdiptv.net:8082/SUPERSPORT-CRICKET/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 9 (BDIX1)
+http://45.127.244.7:8080/hls/channel9.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 10 
 https://networkbest.ru.com/cdn/premium346/chunks.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 11 (BDIX1)
-http://45.127.244.7:8080/hls/channel9.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 12
 https://networkbest.ru.com/cdn/premium368/chunks.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live LaLiga (BDIX2)
 http://43.230.123.21:8080/live/channel9.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 1  (BDIX - Oncast)
+http://dds.oncast.me:1934/dlive/ch9.stream/chunks.m3u8?|Referer=http://dds.oncast.me/ 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 2 
 https://networkbest.ru.com/cdn/premium33/chunks.m3u8?|Referer=https://player.licenses4.me/
@@ -62,17 +65,17 @@ http://10.100.100.140:8081/dugdugi/espn/chunks.m3u8?|Referer=http://dugdugilive.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 5 
 https://networkbest.ru.com/cdn/premium32/chunks.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 6
-https://networkbest.ru.com/cdn/premium65/chunks.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 6 (BDIX - Oncast)
+http://dds.oncast.me:1934/dlive/sp5.stream/chunks.m3u8?|Referer=http://dds.oncast.me/ 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 7 (BDIX16)
 http://bdiptv.net:8082/tv13/tracks-5,2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 8 
-https://networkbest.ru.com/cdn/premium369/chunks.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 8  (BDIX - Oncast)
+http://dds.oncast.me:1934/dlive/sp9.stream/chunks.m3u8?|Referer=http://dds.oncast.me/ 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 9
-https://networkbest.ru.com/cdn/premium370/chunks.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 9 (BDIX - Oncast)
+http://dds.oncast.me:1934/dlive/sp8.stream/chunks.m3u8?|Referer=http://dds.oncast.me/ 
 
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/gtv.png" group-title="Bangla",Gazi TV  (BDIX1)
 http://45.127.244.7:8080/hls/channel2.m3u8
@@ -88,6 +91,9 @@ http://103.55.144.46/hls/Gazi-TV.m3u8
 
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/gtv.png" group-title="Bangla",Gazi TV (BDIX16)
 http://bdiptv.net:8082/gtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/gtv.png" group-title="Bangla",Gazi TV (BDIX - Oncast)
+http://dds.oncast.me:1934/dlive/gz.stream/chunks.m3u8%7CReferer=http://dds.oncast.me/
 
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/gtv.png" group-title="Bangla",Gazi TV (BDIX - Accessnet)
 http://stream.serverbd247.com/hls/sky3.m3u8
@@ -116,8 +122,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/atnbangla.png" group-title="Bangla",ATN Bangla (BDIX4)
 http://10.100.100.140:8081/dugdugi/atnbangla/chunks.m3u8?|Referer=http://dugdugilive.com/
 
-#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/atnbangla.png" group-title="Bangla",ATN Bangla (BDIX)
-http://ranapk.cf/test/in.m3u8?c=12&type=0&quality=0|user-agent=B Player
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/atnbangla.png" group-title="Bangla",ATN Bangla (BDIX16)
+http://bdiptv.net:8082/ATN-Bangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/108.jpg" group-title="Bangla",ATN News (BDIX7)
 http://stream.amrbd.com:8082/Atn-News/tracks-v1a1/mono.m3u8
