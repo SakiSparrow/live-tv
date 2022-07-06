@@ -143,10 +143,10 @@ http://10.100.100.140:8081/dugdugi/banglavision/chunks.m3u8?|Referer=http://dugd
 EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/banglavision.png" group-title="Bangla",Bangla Vision (BDIX2)
 http://tv2.ebox.live:8080/live/banae3.m3u8
 
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/Bangla%20Tv1656562630.png" group-title="Bangla",Bangla TV (BDIX0)
+#EXTINF:-1 tvg-logo="http://103.136.200.246/assets/images/banglatv.jpg" group-title="Bangla",Bangla TV (BDIX0)
 http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/Bangla%20Tv1656562630.png" group-title="Bangla",Bangla TV (BDIX4)
+#EXTINF:-1 tvg-logo="http://103.136.200.246/assets/images/banglatv.jpg" group-title="Bangla",Bangla TV (BDIX4)
 http://10.100.100.140:8081/dugdugi/banglatv/chunks.m3u8?|Referer=http://dugdugilive.com/
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/boishakhitv.jpg" group-title="Bangla",Boishakhi TV (BDIX0)
@@ -173,10 +173,10 @@ http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/GO3OC.png" group-title="Bangla",BTV World (BDIX6)
 http://103.106.2.152:13456/btv_world.m3u8
 
-EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/bijoytv.jpg" group-title="Bangla", Bijoy TV  (BDIX2)
+EXTINF:-1 tvg-logo="http://103.136.200.246/assets/images/bijoytv.jpg" group-title="Bangla", Bijoy TV  (BDIX2)
 http://43.230.123.21:8080/live/bijoy.m3u8
 
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/Bijoy%20Tv1656563149.png" group-title="Bangla", Bijoy TV  (BDIX7)
+#EXTINF:-1 tvg-logo="http://103.136.200.246/assets/images/bijoytv.jpg" group-title="Bangla", Bijoy TV  (BDIX7)
 http://stream.amrbd.com:8082/BijoyTv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yc3jpzfk" group-title="Bangla",Channel 9 (BDIX0)
@@ -188,13 +188,13 @@ http://bdiptv.net:8082/Channel-9/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yc3jpzfk" group-title="Bangla",Channel 9 (BDIX2)
 http://43.230.123.21:8080/live/ch9.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.channelionline.com/wp-content/uploads/2019/07/channel-i-logo-1.png" group-title="Bangla",Channel I (BDIX0)
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/channeli.png" group-title="Bangla",Channel I (BDIX0)
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.channelionline.com/wp-content/uploads/2019/07/channel-i-logo-1.png" group-title="Bangla",Channel I (BDIX11)
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/channeli.png" group-title="Bangla",Channel I (BDIX11)
 http://10.252.253.254/hls/channeli.m3u8
 
-EXTINF:-1 tvg-logo="https://www.channelionline.com/wp-content/uploads/2019/07/channel-i-logo-1.png" group-title="Bangla",Channel I (BDIX4)
+EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/channeli.png" group-title="Bangla",Channel I (BDIX4)
 http://10.100.100.140:8081/dugdugi/channeli/chunks.m3u8?|Referer=http://dugdugilive.com/
 
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/channel24.png" group-title="Bangla",Channel 24 (BDIX0)
@@ -281,13 +281,13 @@ http://10.100.100.140:8081/dugdugi/independent/chunks.m3u8?|Referer=http://dugdu
 #EXTINF:-1 tvg-logo="https://tinyurl.com/746jyf8b" group-title="Bangla",independent TV (BDIX11)
 http://10.252.253.254/hls/indepen.m3u8
 
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/Jamuna%20Tv1656562166.png" group-title="Bangla",Jamuna TV (BDIX0)
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/jamunatv.png" group-title="Bangla",Jamuna TV (BDIX0)
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/Jamuna%20Tv1656562166.png" group-title="Bangla",Jamuna TV (BDIX16)
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/jamunatv.png" group-title="Bangla",Jamuna TV (BDIX16)
 http://bdiptv.net:8082/Jamuna-TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/Jamuna%20Tv1656562166.png" group-title="Bangla",Jamuna TV (BDIX4)
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/jamunatv.png" group-title="Bangla",Jamuna TV (BDIX4)
 http://10.100.100.140:8081/dugdugi/jamuna/chunks.m3u8?|Referer=http://dugdugilive.com/
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2m7cw437" group-title="Bangla",Maasranga HD (BDIX4)
@@ -305,10 +305,10 @@ http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2m7cw437" group-title="Bangla",Maasranga HD (BDIX14)
 http://103.55.144.46/hls/masranga.m3u8
 
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/My%20Tv1656563070.png" group-title="Bangla",MY TV (BDIX0)
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/mytv.png" group-title="Bangla",MY TV (BDIX0)
 http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/My%20Tv1656563070.png" group-title="Bangla",MY TV (BDIX16)
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/mytv.png" group-title="Bangla",MY TV (BDIX16)
 http://bdiptv.net:8082/MYTV-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/mohonatv.png" group-title="Bangla",MOHONA TV   (BDIX0)
@@ -410,10 +410,10 @@ http://172.16.128.250:8081/live/gazitv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX3)
 http://172.27.27.3:8088/hls/02_IndependentTv.m3u8
 
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/T%20Sports1656483569.png" group-title="Bangla",T sports HD (BDIX0)
+#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX0)
 http://iptvbd.jagobd.com:1931/live-orgin/titash.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/T%20Sports1656483569.png" group-title="Bangla",T sports (BDIX1)
+#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports (BDIX1)
 http://45.127.244.7:8080/hls/channel3.m3u8
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX16)
