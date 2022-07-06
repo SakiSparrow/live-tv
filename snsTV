@@ -117,7 +117,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 http://10.100.100.140:8081/dugdugi/atnbangla/chunks.m3u8?|Referer=http://dugdugilive.com/
 
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/atnbangla.png" group-title="Bangla",ATN Bangla (BDIX)
-http://ranapk.cf/test/in.m3u8?c=12&type=0&quality=0
+http://ranapk.cf/test/in.m3u8?c=12&type=0&quality=0|http-user-agent=B Player
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/108.jpg" group-title="Bangla",ATN News (BDIX7)
 http://stream.amrbd.com:8082/Atn-News/tracks-v1a1/mono.m3u8
