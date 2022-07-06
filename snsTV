@@ -368,7 +368,7 @@ http://10.100.100.140:8081/dugdugi/rtv/chunks.m3u8?|Referer=http://dugdugilive.c
 #EXTINF:-1 tvg-logo="https://tinyurl.com/su9v958x" group-title="Bangla",RTV BD 
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/shangsadbangladesh.jpg" group-title="Bangla",Sangsad Bangladesh (BDIX6)
+#EXTINF:-1 tvg-logo="http://103.136.200.246/assets/images/shangsadbangladesh.jpg" group-title="Bangla",Sangsad Bangladesh (BDIX6)
 http://103.106.2.152:13456/sangsad.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.akashdth.com/assets/uploads/channels_images/satv.png" group-title="Bangla",SA TV (BDIX0)
