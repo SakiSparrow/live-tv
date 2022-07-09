@@ -134,11 +134,11 @@ https://tv.kotha.im/ATN_News_SD/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/banglavision.png" group-title="Bangla",Bangla Vision  (BDIX0)
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/banglavision.png" group-title="Bangla",Bangla Vision (BDIX4)
-http://10.100.100.140:8081/dugdugi/banglavision/chunks.m3u8?|Referer=http://dugdugilive.com/
+#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/banglavision.png" group-title="Bangla",Bangla Vision (BDIX7)
+http://stream.amrbd.com:8082/BanglaVision/tracks-v1a1/mono.m3u8
 
-EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/banglavision.png" group-title="Bangla",Bangla Vision (BDIX2)
-http://tv2.ebox.live:8080/live/banae3.m3u8
+#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/banglavision.png" group-title="Bangla",Bangla Vision (BDIX)
+https://cdn.rangdhanu.live/BanglaVision/video.m3u8
 
 #EXTINF:-1 tvg-logo="http://103.136.200.246/assets/images/banglatv.jpg" group-title="Bangla",Bangla TV (BDIX0)
 http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
@@ -353,10 +353,10 @@ https://tv.kotha.im/News_24_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg" group-title="Bangla",News24 (BDIX4)
 http://10.100.100.140:8081/dugdugi/news24/chunks.m3u8?|Referer=http://dugdugilive.com/
 
-#EXTINF:-1 tvg-logo="https://pcdn1.jagobd.com/images/xs-f0ocf71652458683857.jpg" group-title="Bangla",Nexus TV (BDIX0)
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/HK7MF.png" group-title="Bangla",Nexus TV (BDIX0)
 http://iptvbd.jagobd.com:1931/live-orgin/nexustv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://pcdn1.jagobd.com/images/xs-f0ocf71652458683857.jpg" group-title="Bangla",Nexus TV (BDIX17)
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/HK7MF.png" group-title="Bangla",Nexus TV (BDIX17)
 https://tv.kotha.im/Nexus_TV_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/su9v958x" group-title="Bangla",RTV BD (BDIX0)
@@ -422,7 +422,7 @@ http://15.1.1.10:8082/tsp/index.m3u8
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX14)
 http://103.55.144.46/hls/t-sports.m3u8
 
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/T%20Sports1656483569.png" group-title="Bangla",T sports (BDIX7)
+#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports (BDIX7)
 http://12.1.1.1:8082/T-Sports/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX4)
@@ -439,6 +439,9 @@ http://172.27.27.3:8088/hls/10_StarJalsha.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha HD (BDIX14)
 http://103.55.144.46/hls/starjalsha.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha HD (BDIX15)
+http://103.109.56.116/live/skyfeed1003/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha (BDIX4)
 http://10.100.100.140:8081/dugdugi/starjalsa/chunks.m3u8?|Referer=http://dugdugilive.com/
@@ -460,6 +463,9 @@ http://10.100.100.140:8081/dugdugi/zeebangla/chunks.m3u8?|Referer=http://dugdugi
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla HD (BDIX2)
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla HD (BDIX15)
+http://103.109.56.116/live/skyfeed1004/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla HD (BDIX14)
 http://103.55.144.46/hls/zeebanglahd.m3u8
@@ -641,6 +647,10 @@ http://103.55.144.46/hls/ten.m3u8
 #EXTINF:-1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="Sports",Ten Sports (BDIX7)
 http://stream.amrbd.com:8082/Ten-Sports/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="Sports",Ten Sports 
+http://103.24.96.74:80/stream/tensports/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png"  group-title="Sports",PTV Sports (BDIX11)
 http://10.252.253.254/hls/ptv.m3u8
 
@@ -650,8 +660,8 @@ http://172.27.27.3:8088/hls/15_ptv_sports.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png"  group-title="Sports",PTV Sports (BDIX2)
 http://tv2.ebox.live:8080/live/ptvsports.m3u8
 
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png"  group-title="Sports",PTV Sports (BDCable)
-http://jupiter.bdcabletv.com/PTV_Sports/video.m3u8
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png"  group-title="Sports",PTV Sports 
+http://138.201.220.51:8030/ptv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png"  group-title="Sports",PTV Sports (BDIX14)
 http://103.55.144.46/hls/ptv.m3u8
@@ -682,6 +692,9 @@ http://bdiptv.net:8082/SONY-SIX-1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/ten1hd.jpg"  group-title="Sports",Sony Ten 1 HD (BDIX14) 
 http://103.55.144.46/hls/sonyten1.m3u8
+
+#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/ten1hd.jpg"  group-title="Sports",Sony Ten 1 HD (BDIX15) 
+http://103.109.56.116/live/skyfeed1001/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/ten1hd.jpg"  group-title="Sports",Sony Ten 1 HD (BDIX4) 
 http://10.100.100.140:8081/dugdugi/ten1/chunks.m3u8?|Referer=http://dugdugilive.com/
@@ -760,6 +773,9 @@ http://10.252.253.254/hls/stersports1hd.m3u8
 
 #EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/star-sports-1.jpg"  group-title="Sports",Star Sports 1 HD (BDIX14)
 http://103.55.144.46/hls/stersports1hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/star-sports-1.jpg"  group-title="Sports",Star Sports 1 HD (BDIX15)
+http://103.109.56.116/live/skyfeed1002/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/star-sports-1.jpg"  group-title="Sports",Star Sports 1 (BDIX4)
 http://10.100.100.140:8081/dugdugi/starsports1/chunks.m3u8?|Referer=http://dugdugilive.com/
@@ -952,6 +968,9 @@ http://10.252.253.254/hls/cn.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="Cartoon",Cartoon Network (BDIX14)
 http://103.55.144.46/hls/cn.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/HK7OE.png" group-title="Cartoon",Hungama TV 
+http://144.217.70.181:9587/hin2/HUNGAMA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Cartoon",Discovery Kids Hindi (BDIX14)
 http://103.55.144.46/hls/dis-kid.m3u8
