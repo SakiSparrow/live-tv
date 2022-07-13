@@ -20,12 +20,11 @@ http://172.16.50.250:8081/live/mystream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 3 (BDIX8_2)
 http://172.16.128.250:8081/live/Tsports2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 4 (BDIX - Accessnet)
-http://stream.serverbd247.com/hls/tsportshd.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 4 (BDIX - Oncast)
+http://dds.oncast.me:1934/dlive/sp3.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 5 
-https://networkbest.ru.com/cdn/premium417/chunks.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-http://12.1.1.1:8081/live/Star-Sports1/chunks.m3u8
+https://networkbest.ru.com/cdn/premium368/chunks.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 6 (BDIX - Accessnet)
 http://stream.serverbd247.com/hls/sky7.m3u8
@@ -43,7 +42,7 @@ http://45.127.244.7:8080/hls/channel9.m3u8
 https://networkbest.ru.com/cdn/premium34/chunks.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 12
-https://networkbest.ru.com/cdn/premium368/chunks.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium65/chunks.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live LaLiga (BDIX2)
 http://43.230.123.21:8080/live/channel9.m3u8
@@ -138,8 +137,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/banglavision.png" group-title="Bangla",Bangla Vision (BDIX7)
 http://stream.amrbd.com:8082/BanglaVision/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/banglavision.png" group-title="Bangla",Bangla Vision (BDIX)
-https://cdn.rangdhanu.live/BanglaVision/video.m3u8
+#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/banglavision.png" group-title="Bangla",Bangla Vision (BDIX17)
+https://tv.kotha.im/Bangla_Vision_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://103.136.200.246/assets/images/banglatv.jpg" group-title="Bangla",Bangla TV (BDIX0)
 http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
@@ -173,6 +172,10 @@ http://103.106.2.152:13456/btv_world.m3u8
 
 #EXTINF:-1 tvg-logo="http://103.136.200.246/assets/images/bijoytv.jpg" group-title="Bangla", Bijoy TV  (BDIX0)
 http://iptvbd.jagobd.com:1931/live-orgin/bijoy00.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://103.136.200.246/assets/images/bijoytv.jpg" group-title="Bangla", Bijoy TV  (BDIX17)
+https://tv.kotha.im/Bijoy_TV_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://103.136.200.246/assets/images/bijoytv.jpg" group-title="Bangla", Bijoy TV  (BDIX7)
 http://stream.amrbd.com:8082/BijoyTv/tracks-v1a1/mono.m3u8
