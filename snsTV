@@ -12,7 +12,7 @@ https://tv.kotha.im/TSports_HD/index.m3u8
 http://103.168.91.228/tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 
-https://dai.google.com/linear/hls/event/SU7iSpwoS3yf6HkUne_Vhg/master.m3u8?key=thenayeemparvez
+https://dr.hdt20.xyz/hls/SP1E/stream.m3u8?|Referer=https://hdt20.xyz/
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 1 (BDIX4)
 http://10.100.100.140:8081/dugdugi/gazi/chunks.m3u8?|Referer=http://dugdugilive.com/
@@ -42,10 +42,7 @@ http://bdiptv.net:8082/SUPERSPORT-CRICKET/index.m3u8
 http://45.127.244.7:8080/hls/channel9.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 10 
-https://networkbest.ru.com/cdn/premium34/chunks.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 12
-https://networkbest.ru.com/cdn/premium65/chunks.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+https://srv.vhls.ru.com/cdn/premium34/playlist.m3u8?|Referer=https://player.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live LaLiga (BDIX2)
 http://43.230.123.21:8080/live/channel9.m3u8
@@ -54,13 +51,13 @@ http://43.230.123.21:8080/live/channel9.m3u8
 http://dds.oncast.me:1934/dlive/ch9.stream/chunks.m3u8?|Referer=http://dds.oncast.me/ 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 2 
-https://networkbest.ru.com/cdn/premium33/chunks.m3u8?|Referer=https://player.licenses4.me/
+https://srv.vhls.ru.com/cdn/premium33/playlist.m3u8?|Referer=https://player.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 3 
-https://networkbest.ru.com/cdn/premium31/chunks.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+https://srv.vhls.ru.com/cdn/premium32/playlist.m3u8?|Referer=https://player.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 4
-https://networkbest.ru.com/cdn/premium32/chunks.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+https://srv.vhls.ru.com/cdn/premium31/playlist.m3u8?|Referer=https://player.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 5 (BDIX4)
 http://10.100.100.140:8081/dugdugi/espn/chunks.m3u8?|Referer=http://dugdugilive.com/
