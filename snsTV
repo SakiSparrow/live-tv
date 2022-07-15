@@ -131,6 +131,9 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnws-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/108.jpg" group-title="Bangla",ATN News (BDIX7)
 http://stream.amrbd.com:8082/Atn-News/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/108.jpg" group-title="Bangla",ATN News (BDIX2)
+http://43.230.123.21:8080/live/ex-atnae.m3u8
+
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/108.jpg" group-title="Bangla",ATN News (BDIX4)
 http://10.100.100.140:8081/dugdugi/atnnews/chunks.m3u8?|Referer=http://dugdugilive.com/
 
