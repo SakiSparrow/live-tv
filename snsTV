@@ -176,7 +176,6 @@ http://103.106.2.152:13456/btv_world.m3u8
 #EXTINF:-1 tvg-logo="http://103.136.200.246/assets/images/bijoytv.jpg" group-title="Bangla", Bijoy TV  (BDIX0)
 http://iptvbd.jagobd.com:1931/live-orgin/bijoy00.stream/chunks.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://103.136.200.246/assets/images/bijoytv.jpg" group-title="Bangla", Bijoy TV  (BDIX17)
 https://tv.kotha.im/Bijoy_TV_HD/index.m3u8
 
@@ -202,7 +201,7 @@ EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/channeli.png" group-titl
 http://10.100.100.140:8081/dugdugi/channeli/chunks.m3u8?|Referer=http://dugdugilive.com/
 
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/channel24.png" group-title="Bangla",Channel 24 (BDIX0)
-https://tempx.jagobd.com:441/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/channel24.png" group-title="Bangla",Channel 24 (BDIX16)
 http://bdiptv.net:8082/CHANNEL-24/index.m3u8
