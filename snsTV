@@ -8,11 +8,8 @@ http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports (BDIX17)
 https://tv.kotha.im/TSports_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports (BDIX)
-http://103.168.91.228/tv.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 
-https://dr.hdt20.xyz/hls/SP1E/stream.m3u8?|Referer=https://hdt20.xyz/
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports (BDIX - AccessNET)
+http://stream.serverbd247.com/hls/serverbd247.com-tsports.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 1 (BDIX4)
 http://10.100.100.140:8081/dugdugi/gazi/chunks.m3u8?|Referer=http://dugdugilive.com/
@@ -26,8 +23,8 @@ http://172.16.128.250:8081/live/Tsports2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 4 (BDIX - Oncast)
 http://dds.oncast.me:1934/dlive/sp3.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 5 (BDIX - Accessnet)
-http://stream.serverbd247.com/hls/serverbd247.com-tsports.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 5
+https://dr.hdt20.xyz/hls/SP1E/stream.m3u8?|Referer=https://hdt20.xyz/
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 6 (BDIX - Accessnet)
 http://stream.serverbd247.com/hls/sky7.m3u8
@@ -47,7 +44,7 @@ https://srv.vhls.ru.com/cdn/premium34/playlist.m3u8?|Referer=https://player.lice
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live LaLiga (BDIX2)
 http://43.230.123.21:8080/live/channel9.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 1  (BDIX - Oncast)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Laliga (BDIX - Oncast)
 http://dds.oncast.me:1934/dlive/ch9.stream/chunks.m3u8?|Referer=http://dds.oncast.me/ 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 2 
