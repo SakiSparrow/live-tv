@@ -116,6 +116,9 @@ http://10.100.100.140:8081/dugdugi/duronto/chunks.m3u8?|Referer=http://dugdugili
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/atnbangla.png" group-title="Bangla",ATN Bangla (BDIX0)
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/atnbangla.png" group-title="Bangla",ATN Bangla (BDIX11)
+http://10.252.253.254/hls/atn.m3u8
+
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/atnbangla.png" group-title="Bangla",ATN Bangla (BDIX4)
 http://10.100.100.140:8081/dugdugi/atnbangla/chunks.m3u8?|Referer=http://dugdugilive.com/
 
@@ -139,6 +142,9 @@ https://tv.kotha.im/ATN_News_SD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/banglavision.png" group-title="Bangla",Bangla Vision  (BDIX0)
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/banglavision.png" group-title="Bangla",Bangla Vision  (BDIX11)
+http://10.252.253.254/hls/banglavision.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/banglavision.png" group-title="Bangla",Bangla Vision (BDIX7)
 http://stream.amrbd.com:8082/BanglaVision/tracks-v1a1/mono.m3u8
@@ -239,6 +245,9 @@ https://tv.kotha.im/Desh_TV_SD/index.m3u8
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/duronto.png" group-title="Bangla",Duronto TV (BDIX16)
 http://bdiptv.net:8082/DURONTO-TV/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/duronto.png" group-title="Bangla",Duronto TV (BDIX11)
+http://10.252.253.254/hls/duranta.m3u8
+
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/duronto.png" group-title="Bangla",Duronto TV (BDIX7)
 http://stream.amrbd.com:8082/Duronto_TV/index.m3u8
 
@@ -269,6 +278,9 @@ https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-logo="http://gaanbangla.tv/img/gb_big.png" group-title="Bangla",Gaan Bangla (BDIX0)
 http://iptvbd.jagobd.com:1931/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="http://gaanbangla.tv/img/gb_big.png" group-title="Bangla",Gaan Bangla (BDIX11)
+http://10.252.253.254/hls/gb.m3u8
+
 #EXTINF:-1 tvg-logo="http://gaanbangla.tv/img/gb_big.png" group-title="Bangla",Gaan Bangla (BDIX2)
 http://tv2.ebox.live:8080/live/ex-gan.m3u8
 
@@ -289,6 +301,9 @@ http://10.252.253.254/hls/indepen.m3u8
 
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/jamunatv.png" group-title="Bangla",Jamuna TV (BDIX0)
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/jamunatv.png" group-title="Bangla",Jamuna TV (BDIX11)
+http://10.252.253.254/hls/jamuna.m3u8
 
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/jamunatv.png" group-title="Bangla",Jamuna TV (BDIX16)
 http://bdiptv.net:8082/Jamuna-TV/index.m3u8
@@ -325,6 +340,9 @@ http://10.100.100.140:8081/dugdugi/mohona/chunks.m3u8?|Referer=http://dugdugiliv
 
 #EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV (BDIX7)
 http://stream.amrbd.com:8082/Nagorik-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV (BDIX11)
+http://10.252.253.254/hls/nagoriktv.m3u8
 
 #EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV (BDIX17)
 https://tv.kotha.im/Nagorik_TV_HD/index.m3u8
@@ -948,8 +966,8 @@ http://10.252.253.254/hls/bbcworld.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fRivJD3.jpg" group-title="News",Al Jazeera HD
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fRivJD3.jpg" group-title="News",Al Jazeera 
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fRivJD3.jpg" group-title="News",Al Jazeera  (BDIX11)
+http://10.252.253.254/hls/aljazeera.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LD1Lj0v.png" group-title="News",DW (BDIX7)
 http://stream.amrbd.com:8082/Dw/index.m3u8
@@ -1098,6 +1116,9 @@ http://tv2.ebox.live:8080/live/star-movies.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Movies",Star Movies HD (BDIX11)
 http://10.252.253.254/hls/starmovies.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1585632282-99247921.png" group-title="English Movies",LOTUS Macau (BDIX11)
+http://10.252.253.254/hls/lotus.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg"  group-title="English Movies",HBO (BDIX4)
 http://10.100.100.140:8081/dugdugi/hbo/chunks.m3u8?|Referer=http://dugdugilive.com/
 
@@ -1191,6 +1212,14 @@ http://10.252.253.254/hls/utvaction.m3u8
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://i.imgur.com/rfjCQoz.png" , Star World (BDIX11)
 http://10.252.253.254/hls/star-worldhd.m3u8
 
+#EXTINF:-1 group-title="English Movies" tvg-logo="http://103.55.144.46/img/mnx-hd.jpg" , MNX (BDIX11)
+http://10.252.253.254/hls/mnx-hd.m3u8
+
+
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://i.imgur.com/rfjCQoz.png" , Star World
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="English Movies" tvg-logo="http://103.55.144.46/img/axn.png" , AXN (BDIX11)
+http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
+
 
