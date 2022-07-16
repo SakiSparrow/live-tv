@@ -20,8 +20,8 @@ http://172.16.50.250:8081/live/mystream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 3 (BDIX8_2)
 http://172.16.128.250:8081/live/Tsports2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 4 (BDIX - Oncast)
-http://dds.oncast.me:1934/dlive/sp3.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 4 (BDIX)
+https://ranapk.ml/T-sports.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 5
 https://dr.hdt20.xyz/hls/SP1E/stream.m3u8?|Referer=https://hdt20.xyz/
