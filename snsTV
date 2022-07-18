@@ -706,7 +706,7 @@ http://172.27.27.3:8088/hls/15_ptv_sports.m3u8
 http://tv2.ebox.live:8080/live/ptvsports.m3u8
 
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png"  group-title="Sports",PTV Sports 
-http://138.201.220.51:8030/ptv/index.m3u8
+http://103.24.96.74/stream/ptvsports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png"  group-title="Sports",PTV Sports (BDIX14)
 http://103.55.144.46/hls/ptv.m3u8
