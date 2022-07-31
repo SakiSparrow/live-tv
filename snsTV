@@ -20,6 +20,9 @@ http://172.16.128.250:8081/live/Tsports2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 4 
 http://0nelivezer0.rbtvnw.com:21190/juno/ten3hd/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 
+https://srv.vhls.ru.com/cdn/premium597/tracks-v1a1/mono.m3u8?|Referer=https://player.licenses4.me/
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 5 (BDIX - AccessNET)
 http://stream.serverbd247.com/hls/serverbd247.com-tsports.m3u8
 
