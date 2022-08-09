@@ -20,14 +20,11 @@ http://172.16.128.250:8081/live/Tsports2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 4 (BDIX4)
 http://10.100.100.140:8080/TSports-Main/index.m3u8?|Referer=http://dugdugilive.com/
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 
-https://networkbest.ru.com/cdn/premium597/playlist.m3u8?|Referer=https://player.licenses4.me/
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 5
-https://dr.hdt20.xyz/hls/SP1E/stream.m3u8?|Referer=https://hdt20.xyz/
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 5 (BDIX - Accessnet)
+http://stream.serverbd247.com/hls/sky16.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 6 (BDIX - Accessnet)
-http://stream.serverbd247.com/hls/sky7.m3u8
+http://stream.serverbd247.com/hls/sky10.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 7 (BDIX13)
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
