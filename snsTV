@@ -104,6 +104,9 @@ http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8
 EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/ananda-tv.png" group-title="Bangla",Ananda TV (BDIX16)
 http://bdiptv.net:8082/Anando-TV/index.m3u8
 
+EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/ananda-tv.png" group-title="Bangla",Ananda TV (BDIX - AccessNet)
+http://stream.serverbd247.com/hls/sky7.m3u8
+
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/ananda-tv.png" group-title="Bangla",Ananda TV (BDIX4)
 http://10.100.100.140:8081/dugdugi/duronto/chunks.m3u8?|Referer=http://dugdugilive.com/
 
@@ -191,7 +194,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yc3jpzfk" group-title="Bangla",Channel 9 (BDIX16)
 http://bdiptv.net:8082/Channel-9/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yc3jpzfk" group-title="Bangla",Channel 9 (BDIX2)
+EXTINF:-1 tvg-logo="https://tinyurl.com/yc3jpzfk" group-title="Bangla",Channel 9 (BDIX2)
 http://43.230.123.21:8080/live/ch9.m3u8
 
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/channeli.png" group-title="Bangla",Channel I (BDIX0)
@@ -317,7 +320,7 @@ http://bdiptv.net:8082/Maasranga/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2m7cw437" group-title="Bangla",Maasranga HD (BDIX)
 http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2m7cw437" group-title="Bangla",Maasranga HD (BDIX14)
+EXTINF:-1 tvg-logo="https://tinyurl.com/2m7cw437" group-title="Bangla",Maasranga HD (BDIX14)
 http://103.55.144.46/hls/masranga.m3u8
 
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/mytv.png" group-title="Bangla",MY TV (BDIX0)
