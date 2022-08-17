@@ -260,13 +260,13 @@ https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 https://bdcast-live2.b-cdn.net/jago/1/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (BDIX16)
-http://103.149.130.122:8089/54/index.m3u8
+http://bdiptv.net:8082/NTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (BDIX7)
-http://10.16.100.245/hindi/ntv_1sT0p.m3u8
+http://stream.amrbd.com:8082/Ntv/tracks-v1a1/mono.m3u8
 
-EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (BDIX9)
-http://103.159.4.38:8080/BD-BANGLA-18/index.m3u8
+EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (BDIX17)
+https://tv.kotha.im/NTV_SD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg" group-title="Bangla",News24 (BDIX0)
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
@@ -274,14 +274,11 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg" group-title="Bangla",News24 (BDIX12)
 http://bdiptv.net:8082/NEWS-24/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg" group-title="Bangla",News24 (BDIX2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg" group-title="Bangla",News24 (BDIX17)
+https://tv.kotha.im/News_24_HD/index.m3u8
+
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg" group-title="Bangla",News24 (BDIX2)
 http://tv2.ebox.live:8080/live/ex-news24-20.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NY1mSmg.png" group-title="Bangla",News24 (BDIX0)
-https://somoy.appv.jagobd.com:444/somoy/nexustv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NY1mSmg.png" group-title="Bangla",News24 (JagoBD)
-https://bdcast-live2.b-cdn.net/jago/1/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Bangla",RTV BD (BDIX0)
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/live-orgin/rtv-sg.stream/chunks.m3u8
@@ -367,11 +364,8 @@ http://tv2.ebox.live:8080/live/star-jalsha.m3u8
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla (BDIX1)
 http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
 
-#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla HD (BDIX2)
+EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla HD (BDIX2)
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
-
-#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla HD (BDIX9)
-http://103.159.4.38:9191/CH23-INBD2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla HD (BDIX - FunTimeBD)
 http://103.109.56.116/live/skyfeed1004/index.m3u8
@@ -379,8 +373,8 @@ http://103.109.56.116/live/skyfeed1004/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla HD (BDIX14)
 http://103.55.144.46/hls/zeebanglahd.m3u8
 
-#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla HD (str)
-http://str24.l9574.com:80/615.stream/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla HD (amarbd)
+http://stream.amrbd.com:8082/ZeeBanglaHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Bangla",Zee Bangla Cinema (BDIX2)
 http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
